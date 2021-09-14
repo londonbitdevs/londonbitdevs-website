@@ -4,5 +4,4 @@ tagline: 'BitDevs London is a community of Bitcoin entusiasts and professionals 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsLDN/', external: true}
