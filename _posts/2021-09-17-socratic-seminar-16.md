@@ -12,8 +12,12 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 - [Covenant Opcode](https://bitcoinops.org/en/newsletters/2021/09/15/#covenant-opcode-proposal)
   - ([mailing list post - overview](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html))
   - ([mailing list details](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019420.html))
+  - ([Covenants with OP_CAT](https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html))
+  - ([Covenants in elements alpha](https://blockstream.com/2016/11/02/en-covenants-in-elements-alpha/))
+  - ([Emulating 
 - [Fidelity bonds](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
   - ([joinmarket release notes](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/release-notes/release-notes-0.9.0.md#notable-changes))
+  - ([Design for fidelity bonds](https://gist.github.com/chris-belcher/18ea0e6acdb885a2bfbdee43dcd6b5af/))
 - [Package mempool accept](https://gist.github.com/glozow/dc4e9d5c5b14ade7cdfac40f43adb18a)
 - [Sequence locks upgradability](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019400.html)
   - ([blog post](https://rubin.io/bitcoin/2021/09/03/upgradable-nops-flaw/))
