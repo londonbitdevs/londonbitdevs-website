@@ -8,28 +8,28 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 ## Bitcoin
 
 - [Dust limit discussion](https://bitcoinops.org/en/newsletters/2021/08/18/#dust-limit-discussion)
-  - ([mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-August/019307.html))
+  - ([Mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-August/019307.html))
 - [Covenant Opcode](https://bitcoinops.org/en/newsletters/2021/09/15/#covenant-opcode-proposal)
-  - ([mailing list post - overview](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html))
-  - ([mailing list details](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019420.html))
+  - ([Mailing list post - overview](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html))
+  - ([Mailing list post - details](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019420.html))
   - ([Covenants with OP_CAT](https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html))
   - ([Covenants in elements alpha](https://blockstream.com/2016/11/02/en-covenants-in-elements-alpha/))
 - [Fidelity bonds](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
-  - ([joinmarket release notes](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/release-notes/release-notes-0.9.0.md#notable-changes))
+  - ([JoinMarket release notes](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/release-notes/release-notes-0.9.0.md#notable-changes))
   - ([Design for fidelity bonds](https://gist.github.com/chris-belcher/18ea0e6acdb885a2bfbdee43dcd6b5af/))
 - [Package mempool accept](https://gist.github.com/glozow/dc4e9d5c5b14ade7cdfac40f43adb18a)
 - [Sequence locks upgradability](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019400.html)
-  - ([blog post](https://rubin.io/bitcoin/2021/09/03/upgradable-nops-flaw/))
-  - ([Pull Requests](https://github.com/bitcoin/bitcoin/pull/22871))
+  - ([Blog post](https://rubin.io/bitcoin/2021/09/03/upgradable-nops-flaw/))
+  - ([Pull request](https://github.com/bitcoin/bitcoin/pull/22871))
 - [Add allocator for node based containers](https://github.com/bitcoin/bitcoin/pull/22702)
   - ([Tweet about benchmarks](https://twitter.com/jamesob/status/1424799572535218188))
 
 ## Lightning
 
 - [Turbo channels](https://bitcoinops.org/en/newsletters/2021/07/07/#zero-conf-channel-opens)
-  - ([mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003074.html))
+  - ([Mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003074.html))
 - [Zero base fees](https://bitcoinops.org/en/newsletters/2021/08/25/#zero-base-fee-ln-discussion)
-  - ([mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html))
+  - ([Mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html))
 - [Bolt12 Offers (updated with C-Lightning 0.10.1)](http://bolt12.org/)
 - [Dual funded channels](https://medium.com/blockstream/c-lightning-v0-10-1-eltoo-ethereum-layer-too-2e968a03ca83)
 
@@ -43,7 +43,7 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 ## Releases
 
 - [Bitcoin Core 0.22 released!](https://bitcoincore.org/en/2021/09/13/release-22.0/)
-  - ([release notes](https://bitcoincore.org/en/releases/22.0/))
+  - ([Release notes](https://bitcoincore.org/en/releases/22.0/))
 - [BTCPayServer 1.2.3](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.2.3)
 - [rust-bitcoin 0.27.0](https://github.com/rust-bitcoin/rust-bitcoin/releases/tag/0.27.0)
 - [c-lightning v0.10.1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.1)
@@ -52,10 +52,10 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 ## Bitcoin Core PRs
 
 - [USDTs](https://github.com/bitcoin/bitcoin/pull/22006)
-  - ([demo](https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s))
+  - ([Demo](https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s))
 - [Reduce addr blackholes](https://github.com/bitcoin/bitcoin/pull/21528)
 - [Rate limit the processing of addr records](https://github.com/bitcoin/bitcoin/pull/22387)
-  - [bitcointalk forum post](https://bitcointalk.org/index.php?topic=5348856.msg57469495)
+  - [Bitcointalk forum post](https://bitcointalk.org/index.php?topic=5348856.msg57469495)
 - [Wallet: always use BnB & Knapsack](https://github.com/bitcoin/bitcoin/pull/22009)
 
 ## Misc
