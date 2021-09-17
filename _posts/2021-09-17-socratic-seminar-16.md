@@ -18,6 +18,8 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 - [Sequence locks upgradability](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019400.html)
   - ([blog post](https://rubin.io/bitcoin/2021/09/03/upgradable-nops-flaw/))
   - ([Pull Requests](https://github.com/bitcoin/bitcoin/pull/22871))
+- [Add allocator for node based containers](https://github.com/bitcoin/bitcoin/pull/22702)
+  - ([Tweet about benchmarks](https://twitter.com/jamesob/status/1424799572535218188))
 
 ## Lightning
 
@@ -25,12 +27,15 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
   - ([mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003074.html))
 - [Zero base fees](https://bitcoinops.org/en/newsletters/2021/08/25/#zero-base-fee-ln-discussion)
   - ([mailing list post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003174.html))
+- [Bolt12 Offers (updated with C-Lightning 0.10.1)](http://bolt12.org/)
+- [Dual funded channels](https://medium.com/blockstream/c-lightning-v0-10-1-eltoo-ethereum-layer-too-2e968a03ca83)
 
 ## Mining
 
 - [Malaysian police steamroll miners](https://www.youtube.com/watch?v=c_tcg9kOfkg)
 - [One of the oldest hydro-power stations in the US mining Bitcoin](https://bitcoinmagazine.com/business/mechanicville-plant-mining-bitcoin)
 - [Bitmain spins off Antpool](https://www.theblockcrypto.com/linked/112599/bitmain-divest-bitcoin-mining-antpool)
+- [Blockstream acquires Spondoolies, raises $210M](https://twitter.com/CoinDesk/status/1430131880708526089)
 
 ## Releases
 
@@ -51,13 +56,25 @@ meetup: https://www.meetup.com/BitDevsLDN/events/280462125/
 - [Wallet: always use BnB & Knapsack](https://github.com/bitcoin/bitcoin/pull/22009)
 
 ## Misc
- 
+
 - [BitMEX grant program reopens](https://blog.bitmex.com/open-source-developer-grant-programme-re-opening/)
 - [Brink Fellowship & Grants](https://brink.dev/programs)
 - [Giving Back to Bitcoin](https://f.hubspotusercontent20.net/hubfs/5507270/AVAX%20-%20June2021/Giving%20Back%20to%20Bitcoin%20Ebook_July%202021.pdf)
+- [Bech32m adoption](https://en.bitcoin.it/wiki/Bech32_adoption)
+- [Summer of Bitcoin](https://blog.summerofbitcoin.org/issues/summer-of-bitcoin-liftoff-745630)
+- [Chaincode Protocol Developer Seminars](https://twitter.com/ChaincodeLabs/status/1430587958462197766)
+- [El Salvador declares Bitcoin Legal Tender](https://bitcoinmagazine.com/markets/el-salvador-first-country-to-adopt-bitcoin)
+- [Simplicity support in Elements](https://twitter.com/n1ckler/status/1422587944838303745)
+- [Invalid IP addresses used research network topology](https://twitter.com/mattthias0/status/1424325432028155909)
 
 ## Network stats
 
+- [Biggest difficulty reduction ever](https://btc.com/stats/diff)
+- [Lightning network capacity](https://bitcoinvisuals.com/ln-capacity)
+- [LN routing traffic growing](https://twitter.com/LNMarkets/status/1433718559306362880)
+- [1-of-1 multisigs](https://twitter.com/StepanSnigirev/status/1413156991606865924)
+- [Stale block frequency](https://twitter.com/murchandamus/status/1433989086239498243)
+- [Taproot readiness: 54% of nodes upgraded](https://twitter.com/taproot_signal/status/1438865327924862978)
 
 ## General links
 
