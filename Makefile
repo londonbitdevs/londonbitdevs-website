@@ -7,3 +7,6 @@ preview:
 build:
 	bundle exec jekyll clean
 	bundle exec jekyll build --future --drafts --unpublished
+
+clean:
+	bundle exec jekyll clean
