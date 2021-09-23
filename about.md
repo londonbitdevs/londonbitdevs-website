@@ -2,7 +2,7 @@
 layout: default
 ---
 
-BitDevs London is a community of Bitcoin enthusiasts and professionals
+London BitDevs is a community of Bitcoin enthusiasts and professionals
 interested in discussing and participating in the research and development of
 Bitcoin and related protocols. We're a friendly and inclusive group, and all
 are welcome to join us to learn about Bitcoin.
