@@ -9,8 +9,8 @@ title: Home
   </p>
 
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Upcoming Events</h2>
-    {% assign event_posts = 7 %}
+    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+    {% assign event_posts = 5 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
       {% if post.type == "socratic" or post.type == "whitepaper"%}
