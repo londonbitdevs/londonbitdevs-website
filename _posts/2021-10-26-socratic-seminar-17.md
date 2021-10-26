@@ -24,17 +24,26 @@ Please speak to the hosts if you're interested in supporting London Bitdevs.
 - [Payments per day](https://transactionfee.info/charts/payments-per-day/)
 - [Mempool](https://jochen-hoenicke.de/queue/#BTC%20(default%20mempool),1y,weight)
 - [Segwit Transactions](https://dashboard.bitcoinops.org/d/xVQwtADiz/segwit-usage-trends?refresh=1h&orgId=1&from=now-1y&to=now)
+- [Segwit payments](https://transactionfee.info/charts/payments-spending-segwit/)
+- [Input types](https://transactionfee.info/charts/inputs-types-by-count/)
 - [Lightning network capacity](https://txstats.com/dashboard/db/lightning-network?orgId=1&from=now-2y&to=now)
 - [Bitcoind observer](https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s)
   - [USDTs](https://github.com/bitcoin/bitcoin/pull/22006)
+
+### General News
+
+- [Jonas Schnelli steps down as maintainer](https://mobile.twitter.com/_jonasschnelli_/status/1451268520159875080)
+- [Kraken sponsoring open source Rust developers](https://twitter.com/krakenfx/status/1441395002295263239)
+- [Coinbase say hackers stole from 6000 customers](https://www.reuters.com/business/finance/coinbase-says-hackers-stole-cryptocurrency-least-6000-customers-2021-10-01/)
 
 ### Bitcoin
 
 #### Mailing list/blogs
 
-- [Fidelity bonds](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
-  - [Release notes](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/release-notes/release-notes-0.9.0.md#notable-changes)
+- [Fidelity bonds](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/release-notes/release-notes-0.9.0.md#notable-changes)
+  - [Design for fidelity bonds](https://gist.github.com/chris-belcher/18ea0e6acdb885a2bfbdee43dcd6b5af/)
   - [Optech description](https://bitcoinops.org/en/newsletters/2021/08/11/#implementation-of-fidelity-bonds)
+  - [Upgrade to joinmarket 0.9.3](https://twitter.com/joinmarket/status/1450862089170472967?s=20)
 - [Why do we have a mempool?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019572.html)
 
 #### PRs
@@ -61,6 +70,5 @@ Please speak to the hosts if you're interested in supporting London Bitdevs.
 ### Mining
 
 - [One of the oldest hydo-power stations in the US mining Bitcoin](https://bitcoinmagazine.com/business/mechanicville-plant-mining-bitcoin)
-- [Bitmain spins off Antpool](https://www.theblockcrypto.com/linked/112599/bitmain-divest-bitcoin-mining-antpool)
   - [Mining is boiling the finger lakes](https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938)
 
