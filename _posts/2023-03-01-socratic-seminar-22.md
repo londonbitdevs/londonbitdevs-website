@@ -11,6 +11,13 @@ Please join us for our next Socratic Seminar. This Socratic Seminar is sponsored
 and [Fedi](https://www.fedi.xyz/). There will be free drinks and pizza plus great prizes to win.
 Please speak to the hosts if you're interested in supporting London BitDevs.
 
+### General Links
+
+* [Bitcoin Optech](https://bitcoinops.org)
+* [Bitcoin Core PR Review Club](https://bitcoincore.reviews)
+* [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+* [lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev)
+
 ### General News
 
 * [mempool.space introduces block audits, more rbf data, more](https://twitter.com/mempool/status/1625489545230954499)
