@@ -40,11 +40,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 * Doing a simulation for upfront [probing success rates](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003853.html)
 
 #### PRs
-* [p2p: Make stalling timeout adaptive during IBD](https://github.com/bitcoin/bitcoin/pull/25880)
-* [p2p: track AddrMan totals by network and table, improve precision of adding fixed seeds](https://github.com/bitcoin/bitcoin/pull/26847)
-* [p2p, validation: Don't download witnesses for assumed-valid blocks when running in prune mode](https://github.com/bitcoin/bitcoin/pull/27050) merged
-* [Signing support for Miniscript Descriptors](https://github.com/bitcoin/bitcoin/pull/24149) merged
-* [OP_CTV](https://github.com/bitcoin-inquisition/bitcoin/pull/17) and [SIGHASH_ANYPREVOUT](https://github.com/bitcoin-inquisition/bitcoin/pull/18) merged in bitcoin-inquisition
+* [p2p: Make stalling timeout adaptive during IBD](https://github.com/bitcoin/bitcoin/pull/25880) [merged]
+* [p2p: track AddrMan totals by network and table, improve precision of adding fixed seeds](https://github.com/bitcoin/bitcoin/pull/26847) [merged]
+* [p2p, validation: Don't download witnesses for assumed-valid blocks when running in prune mode](https://github.com/bitcoin/bitcoin/pull/27050) [draft]
+* [Signing support for Miniscript Descriptors](https://github.com/bitcoin/bitcoin/pull/24149) [merged]
+* [OP_CTV](https://github.com/bitcoin-inquisition/bitcoin/pull/17) [merged] and [SIGHASH_ANYPREVOUT](https://github.com/bitcoin-inquisition/bitcoin/pull/18) [merged] in bitcoin-inquisition
 
 ### Lightning
 
