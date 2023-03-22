@@ -33,16 +33,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
     - [#27006 Reduce cs_main scope, guard block index 'nFile' under a local mutex](https://bitcoincore.reviews/27006)
     - [#27050 Don't download witnesses for assumed-valid blocks when running in prune mode](https://bitcoincore.reviews/27050)
     - [#26403 Ephemeral Anchors](https://bitcoincore.reviews/26403)
-- Bitcoin Core general developer meetings
-	- 
-- Bitcoin Core wallet meetings
-	- 
-- Lightning Specification meeting
-    - 
-- Core Lightning Developer Call
-    - 
-- Lightning specification meetings
-    - 
 
 ### Optech
 - <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
