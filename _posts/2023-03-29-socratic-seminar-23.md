@@ -20,6 +20,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+- [Refreshed BIP324](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021491.html)
+- [BIP proposal: Fee-redistribution contracts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021505.html)
+- [Codex32](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021469.html)
+- [Using service bit 24 for utreexo signaling in testnet and signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021515.html)
+- [BIP for OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
+- [Minimum fees](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021512.html)
 - 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
