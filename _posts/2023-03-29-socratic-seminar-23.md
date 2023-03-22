@@ -54,7 +54,16 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Pull Requests and repo updates
--
+### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+- [#27255: MiniTapscript: port Miniscript to Tapscript](https://github.com/bitcoin/bitcoin/pull/27255)
+- [#27261: Ignore datacarrier limits for dataless OP_RETURN outputs](https://github.com/bitcoin/bitcoin/pull/27261)
+- [#27213: p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
+- [#27101: Support JSON-RPC 2.0 when requested by client](https://github.com/bitcoin/bitcoin/pull/27101)
+- [#27278: Log new headers](https://github.com/bitcoin/bitcoin/pull/27278)
+- [#27068: wallet: SecureString to allow null characters](https://github.com/bitcoin/bitcoin/pull/27068)
+- [#25740: assumeutxo: background validation completion](https://github.com/bitcoin/bitcoin/pull/25740)
+- [#26177: refactor / kernel: Move non-gArgs chainparams functionality to kernel](https://github.com/bitcoin/bitcoin/pull/26177)
+- [#26531: mempool: Add mempool tracepoints](https://github.com/bitcoin/bitcoin/pull/26531)
 
 ## New Releases
 -
