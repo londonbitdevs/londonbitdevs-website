@@ -28,7 +28,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - 
+    - #25038 nVersion=3 and Package RBF [part 1](https://bitcoincore.reviews/25038) and [part 2](https://bitcoincore.reviews/25038-2)
+    - [#25325 Add pool based memory resource](https://bitcoincore.reviews/25325)
+    - [#27006 Reduce cs_main scope, guard block index 'nFile' under a local mutex](https://bitcoincore.reviews/27006)
+    - [#27050 Don't download witnesses for assumed-valid blocks when running in prune mode](https://bitcoincore.reviews/27050)
+    - [#26403 Ephemeral Anchors](https://bitcoincore.reviews/26403)
 - Bitcoin Core general developer meetings
 	- 
 - Bitcoin Core wallet meetings
