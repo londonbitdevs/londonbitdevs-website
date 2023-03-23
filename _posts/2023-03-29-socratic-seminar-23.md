@@ -41,7 +41,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
     - [#26403 Ephemeral Anchors](https://bitcoincore.reviews/26403)
 
 ### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
+- [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/)
+- [Newsletter #241](https://bitcoinops.org/en/newsletters/2023/03/08/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/09/)
+- [Newsletter #242](https://bitcoinops.org/en/newsletters/2023/03/15/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/16/)
+- [Newsletter #243](https://bitcoinops.org/en/newsletters/2023/03/22/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/23/)
 
 ## Network Data
 -
