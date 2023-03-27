@@ -68,6 +68,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [#26177: refactor / kernel: Move non-gArgs chainparams functionality to kernel](https://github.com/bitcoin/bitcoin/pull/26177)
 - [#26531: mempool: Add mempool tracepoints](https://github.com/bitcoin/bitcoin/pull/26531)
 
+### [BIP]
+- [#1372: Add BIP MuSig2](https://github.com/bitcoin/bips/pull/1372)
+- [#1421: Add OP_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
+
 ## New Releases
 -
 
