@@ -31,6 +31,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
 
+- [Highly Available Lightning Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003842.html)
+- [On watchtowers and accumulators](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003892.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -68,12 +70,32 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [#26177: refactor / kernel: Move non-gArgs chainparams functionality to kernel](https://github.com/bitcoin/bitcoin/pull/26177)
 - [#26531: mempool: Add mempool tracepoints](https://github.com/bitcoin/bitcoin/pull/26531)
 
+
+### [LND](https://github.com/lightningnetwork/lnd)
+- [#765 lnwallet: add new rebroadcaster interface, use for background tx publish](https://github.com/lightning/bolts/pull/765)
+
+### [LDK](https://github.com/lightningdevkit/rust-lightning)
+- [#1977 BOLT12 deserialization fuzzers](https://github.com/lightningdevkit/rust-lightning/pull/1977)
+- [#1988 Limit the number of pending un-funded inbound channel](https://github.com/lightningdevkit/rust-lightning/pull/1988)
+
+### [Eclair](https://github.com/ACINQ/eclair)
+- [#2596 Limit number of RBF attempts during dual funding](https://github.com/ACINQ/eclair/pull/2596)
+
+### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
+- [#22 Add annex data carrier option behind -annexcarrier option](https://github.com/bitcoin-inquisition/bitcoin/pull/22)
+
 ### [BIP]
 - [#1372: Add BIP MuSig2](https://github.com/bitcoin/bips/pull/1372)
 - [#1421: Add OP_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
 
+### [BOLT]
+- [#765: Route Blinding](https://github.com/lightning/bolts/pull/765)
+
 ## New Releases
--
+- [mempool.space v2.5.0](https://github.com/mempool/mempool/releases/tag/v2.5.0)
+- [lnd v0.16.0-beta.rc1](https://github.com/lightningnetwork/lnd/releases/tag/v0.16.0-beta.rc1)
+- [ldk v0.0.114](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.114)
+- [core lightning v23.02.2](https://github.com/ElementsProject/lightning/releases/tag/v23.02.2)
 
 ## Events and Podcasts
 -
@@ -85,4 +107,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Validating Lightning Signer](https://vls.tech)
+- [Lightning for Everyone in Any App](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d)
