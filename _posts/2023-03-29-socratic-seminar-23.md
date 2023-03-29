@@ -26,11 +26,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Using service bit 24 for utreexo signaling in testnet and signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021515.html)
 - [BIP for OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
 - [Minimum fees](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021512.html)
-- 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 - [Highly Available Lightning Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003842.html)
 - [On watchtowers and accumulators](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003892.html)
 
@@ -51,13 +48,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Network Data
 - [Default mempools full, minimum feerate consistently above 1sat/vB](https://twitter.com/murchandamus/status/1640324981140733953?s=20)
 
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [#27255: MiniTapscript: port Miniscript to Tapscript](https://github.com/bitcoin/bitcoin/pull/27255)
@@ -69,7 +59,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [#25740: assumeutxo: background validation completion](https://github.com/bitcoin/bitcoin/pull/25740)
 - [#26177: refactor / kernel: Move non-gArgs chainparams functionality to kernel](https://github.com/bitcoin/bitcoin/pull/26177)
 - [#26531: mempool: Add mempool tracepoints](https://github.com/bitcoin/bitcoin/pull/26531)
-
 
 ### [LND](https://github.com/lightningnetwork/lnd)
 - [#765 lnwallet: add new rebroadcaster interface, use for background tx publish](https://github.com/lightning/bolts/pull/765)
@@ -96,15 +85,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [lnd v0.16.0-beta.rc1](https://github.com/lightningnetwork/lnd/releases/tag/v0.16.0-beta.rc1)
 - [ldk v0.0.114](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.114)
 - [core lightning v23.02.2](https://github.com/ElementsProject/lightning/releases/tag/v23.02.2)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Validating Lightning Signer](https://vls.tech)
