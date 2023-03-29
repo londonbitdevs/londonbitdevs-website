@@ -61,7 +61,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [#26531: mempool: Add mempool tracepoints](https://github.com/bitcoin/bitcoin/pull/26531)
 
 ### [LND](https://github.com/lightningnetwork/lnd)
-- [#765 lnwallet: add new rebroadcaster interface, use for background tx publish](https://github.com/lightning/bolts/pull/765)
+- [#7448 lnwallet: add new rebroadcaster interface, use for background tx publish](https://github.com/lightningnetwork/lnd/pull/7448)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [#1977 BOLT12 deserialization fuzzers](https://github.com/lightningdevkit/rust-lightning/pull/1977)
