@@ -49,7 +49,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #243](https://bitcoinops.org/en/newsletters/2023/03/22/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/23/)
 
 ## Network Data
--
+- [Default mempools full, minimum feerate consistently above 1sat/vB](https://twitter.com/murchandamus/status/1640324981140733953?s=20)
 
 ## CVEs and Research
 ### Research
