@@ -72,6 +72,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [#22 Add annex data carrier option behind -annexcarrier option](https://github.com/bitcoin-inquisition/bitcoin/pull/22)
+- [#23 Pseudo Ephemeral Anchors](https://github.com/bitcoin-inquisition/bitcoin/pull/23)
 
 ### [BIP]
 - [#1372: Add BIP MuSig2](https://github.com/bitcoin/bips/pull/1372)
