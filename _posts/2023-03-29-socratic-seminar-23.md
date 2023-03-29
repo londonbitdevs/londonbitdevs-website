@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsldn/events/292356513/
 
 ## Announcements
 
-Please join us for our next Socratic Seminar. This Socratic Seminar is sponsored by <!--INSERT SPONSORS-->.
+Please join us for our next Socratic Seminar. This Socratic Seminar is sponsored by [The Label](https://thelab31.xyz/).
 Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## General Links
