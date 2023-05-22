@@ -20,7 +20,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [Ark: An Alternative Privacy-preserving Second Layer Solution](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
