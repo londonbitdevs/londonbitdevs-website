@@ -47,14 +47,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [New Mempool Design](https://github.com/bitcoin/bitcoin/issues/27677)
+- [Improve performance of p2p inv to send queues](https://github.com/bitcoin/bitcoin/pull/27610)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
 -
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [Support broadcasting multiple transactions at once](https://github.com/lightningdevkit/rust-lightning/pull/2272)
 
 ### [Eclair](https://github.com/ACINQ/eclair)
 -
@@ -69,7 +70,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 23.2](https://bitcoincore.org/bin/bitcoin-core-23.2)
+- [Bitcoin Core 24.1](https://bitcoincore.org/bin/bitcoin-core-24.1)
+- [Bitcoin Core 25.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-25.0)
 
 ## Events and Podcasts
 -
@@ -81,4 +84,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [mempool.space announced an accelerator service](https://twitter.com/mempool/status/1659619347910803466)
