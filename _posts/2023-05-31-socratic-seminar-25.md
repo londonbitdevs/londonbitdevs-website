@@ -29,7 +29,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#27501 Add getprioritisationmap, delete a mapDeltas entry when delta==0](https://bitcoincore.reviews/27501)
+  - [#26485 Accept options as named-only parameters](https://bitcoincore.reviews/26485)
+  - [#27600 Allow inbound whitebind connections to more aggressively evict peers when slots are full](https://bitcoincore.reviews/27600)
+  - [Testing Bitcoin Core 25.0 Release Candidates](https://bitcoincore.reviews/v25-rc-testing)
 
 ### Optech
 - [Newsletter #249](https://bitcoinops.org/en/newsletters/2023/05/03/), [audio recap](https://bitcoinops.org/en/podcast/2023/05/04/)
