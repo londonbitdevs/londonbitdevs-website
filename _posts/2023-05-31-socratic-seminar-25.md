@@ -31,7 +31,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Responsible disclosures and Bitcoin development](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021643.html)
 - [libsecp256k1 0.3.2 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021683.html)
 - [ZeroSync: Introducing Validity Proofs to Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021679.html)
-- [Coinjoin with less steps using ALL|ANYONECANPAY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021696.html)
+- [Coinjoin with less steps using ALL\|ANYONECANPAY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021696.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [HTLC Endorsment for Jamming Mitigation](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-April/003918.html)
