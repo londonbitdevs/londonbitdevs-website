@@ -51,12 +51,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #251](https://bitcoinops.org/en/newsletters/2023/05/17/), [audio recap](https://bitcoinops.org/en/podcast/2023/05/18/)
 - [Newsletter #252](https://bitcoinops.org/en/newsletters/2023/05/24/), [audio recap](https://bitcoinops.org/en/podcast/2023/05/25/)
 
-## Network Data
--
-
 ## CVEs and Research
-### Research
--
 
 ### InfoSec
 - [Ledger Recover Feature](https://www.ledger.com/recover)
@@ -99,32 +94,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Support for custom feature bits](https://github.com/lightningdevkit/rust-lightning/pull/2204)
 - [Post-anchor: do not aggregate claim of revoked output](https://github.com/lightningdevkit/rust-lightning/pull/1841)
 
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIP]
--
-
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core 23.2](https://bitcoincore.org/bin/bitcoin-core-23.2)
 - [Bitcoin Core 24.1](https://bitcoincore.org/bin/bitcoin-core-24.1)
 - [Bitcoin Core 25.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-25.0)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [mempool.space announced an accelerator service](https://twitter.com/mempool/status/1659619347910803466)
