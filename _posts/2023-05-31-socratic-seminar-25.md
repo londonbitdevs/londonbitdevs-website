@@ -66,6 +66,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [New Mempool Design](https://github.com/bitcoin/bitcoin/issues/27677)
 - [Improve performance of p2p inv to send queues](https://github.com/bitcoin/bitcoin/pull/27610)
+- [Parallel compact block downloads, take 3](https://github.com/bitcoin/bitcoin/pull/27626)
+- [Implement Mini version of BlockAssembler to calculate mining scores](https://github.com/bitcoin/bitcoin/pull/27021)
+- [add ryanofsky to trusted-keys](https://github.com/bitcoin/bitcoin/pull/27604)
+- [rpc: add descriptorprocesspsbt rpc](https://github.com/bitcoin/bitcoin/pull/25796)
+- [wallet: improve IBD sync time by skipping block scanning prior birth time](https://github.com/bitcoin/bitcoin/pull/27469)
+- [wallet: when a block is disconnected, update transactions that are no longer conflicted](https://github.com/bitcoin/bitcoin/pull/27145)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
