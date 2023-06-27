@@ -50,9 +50,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### Research
 - [Securing a $100M Lightning node](https://acinq.co/blog/securing-a-100M-lightning-node)
 
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [mempool / rpc: add getprioritisedtransactions, delete a mapDeltas entry when delta==0](https://github.com/bitcoin/bitcoin/pull/27501)
@@ -89,20 +86,3 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [BIP]
 - [BIP 329: Add spendable state to outputs](https://github.com/bitcoin/bips/pull/1452)
 
-### [BOLT]
--
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
-
-## Miscellaneous
--
