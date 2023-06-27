@@ -20,7 +20,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [Scaling and anonymizing Bitcoin at layer 1 with client-side validation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021732.html)
+- [Standardisation of an unstructured taproot annex](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021731.html)
+- [Conceptual package relay using taproot annex](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/thread.html)
+- [BIP for Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021750.html)
+- [CivKit Node v0.0.1 release - "Sic itur ad astra"](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021779.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
