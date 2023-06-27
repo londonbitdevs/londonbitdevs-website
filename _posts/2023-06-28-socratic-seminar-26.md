@@ -43,9 +43,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #255](https://bitcoinops.org/en/newsletters/2023/06/14/), [audio recap](https://bitcoinops.org/en/podcast/2023/06/15/)
 - [Newsletter #256](https://bitcoinops.org/en/newsletters/2023/06/21/), [audio recap](https://bitcoinops.org/en/podcast/2023/06/22/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [Securing a $100M Lightning node](https://acinq.co/blog/securing-a-100M-lightning-node)
@@ -80,12 +77,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [v23.05.1: Austin Texas Agreement (ATXA) 2](https://github.com/ElementsProject/lightning/releases/tag/v23.05.1)
 - [Configuration rework](https://github.com/ElementsProject/lightning/pull/6243)
 
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIP]
 - [BIP 329: Add spendable state to outputs](https://github.com/bitcoin/bips/pull/1452)
-
 
 ## Miscellaneous
 - [Join the Bitkey beta](https://bitkey.build/beta/)
