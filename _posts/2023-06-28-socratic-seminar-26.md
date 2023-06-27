@@ -50,7 +50,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [mempool / rpc: add getprioritisedtransactions, delete a mapDeltas entry when delta==0](https://github.com/bitcoin/bitcoin/pull/27501)
+- [Fee estimation: avoid serving stale fee estimate](https://github.com/bitcoin/bitcoin/pull/27622)
+- [BIP324: ElligatorSwift integrations](https://github.com/bitcoin/bitcoin/pull/27479)
+- [p2p: Stop relaying non-mempool txs](https://github.com/bitcoin/bitcoin/pull/27625)
+- [p2p: give seednodes time before falling back to fixed seeds](https://github.com/bitcoin/bitcoin/pull/27577)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
