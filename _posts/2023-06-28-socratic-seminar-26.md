@@ -27,7 +27,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#27145 When a block is disconnected, update transactions that are no longer conflicted](https://bitcoincore.reviews/27145)
+  - [#27711 Remove shutdown from kernel library](https://bitcoincore.reviews/27711)
+  - [#27625 Stop relaying non-mempool txs](https://bitcoincore.reviews/27625)
+  - [#27748 util: generalize accounting of system-allocated memory in pool resource](https://bitcoincore.reviews/27748)
 
 ### Optech
 - [Newsletter #253](https://bitcoinops.org/en/newsletters/2023/05/31/), [audio recap](https://bitcoinops.org/en/podcast/2023/06/01/)
