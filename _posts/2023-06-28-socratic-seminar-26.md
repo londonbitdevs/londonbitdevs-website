@@ -86,3 +86,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [BIP]
 - [BIP 329: Add spendable state to outputs](https://github.com/bitcoin/bips/pull/1452)
 
+
+## Miscellaneous
+- [Join the Bitkey beta](https://bitkey.build/beta/)
