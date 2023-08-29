@@ -20,7 +20,18 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [Announcing Libforesta](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021832.html)
+- [Pull-req to enable Full-RBF by default](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021831.html)
+- [Pull-req to remove the arbitrary limits on OP\_Return outputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021840.html)
+- [BIP352: Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021844.html)
+- [BIP-352 Silent Payments addresses should have an expiration time](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021849.html)
+- [Concrete MATT opcodes](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021856.html)
+- [Blinded 2-party Musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021860.html)
+- [BIP for Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021868.html)
+- [segwit naming ambiguity](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021875.html)
+- [Sentinel Chains: A Novel Two-Way Peg](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021894.html)
+- [Combined CTV+APO to minimal TXHASH+CSFS](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021907.html)
+- [Private Collaborative Custody with FROST](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021917.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
