@@ -33,9 +33,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Combined CTV+APO to minimal TXHASH+CSFS](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021907.html)
 - [Private Collaborative Custody with FROST](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021917.html)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#27307 Track mempool conflicts with wallet transactions](https://bitcoincore.reviews/27307)
@@ -47,18 +44,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #264](https://bitcoinops.org/en/newsletters/2023/08/16/), [audio recap](https://bitcoinops.org/en/podcast/2023/08/17/)
 - [Newsletter #265](https://bitcoinops.org/en/newsletters/2023/08/23/), [audio recap](https://bitcoinops.org/en/podcast/2023/08/24/)
 
-## Network Data
--
-
 ## CVEs and Research
 
 - [milk sad disclosure](https://milksad.info/)
-
-### Research
--
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -70,37 +58,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
 - [p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
 - [net: transport abstraction](https://github.com/bitcoin/bitcoin/pull/28165)
-
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIP]
--
-
-### [BOLT]
--
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 
