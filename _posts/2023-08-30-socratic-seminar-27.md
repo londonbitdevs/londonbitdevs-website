@@ -27,7 +27,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#27307 Track mempool conflicts with wallet transactions](https://bitcoincore.reviews/27307)
+  - [#28122 Silent Payments: Implement BIP352](https://bitcoincore.reviews/28122)
 
 ### Optech
 - [Newsletter #262](https://bitcoinops.org/en/newsletters/2023/08/02/), [audio recap](https://bitcoinops.org/en/podcast/2023/08/03/)
