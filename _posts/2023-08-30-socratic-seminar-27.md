@@ -63,12 +63,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
-- [#28132 policy: Enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/28132)
-- [#28130: Remove arbitrary restrictions on OP_RETURN by default](https://github.com/bitcoin/bitcoin/pull/28130)
-- [#28217: set DEFAULT_PERMIT_BAREMULTISIG to false](https://github.com/bitcoin/bitcoin/pull/28217)
-- [#27460: rpc: Add importmempool RPC](https://github.com/bitcoin/bitcoin/pull/27460)
-- [#27411: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
-- [#27213: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
+- [policy: Enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/28132)
+- [Remove arbitrary restrictions on OP_RETURN by default](https://github.com/bitcoin/bitcoin/pull/28130)
+- [set DEFAULT_PERMIT_BAREMULTISIG to false](https://github.com/bitcoin/bitcoin/pull/28217)
+- [rpc: Add importmempool RPC](https://github.com/bitcoin/bitcoin/pull/27460)
+- [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
+- [p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
