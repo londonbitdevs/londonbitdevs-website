@@ -69,6 +69,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [rpc: Add importmempool RPC](https://github.com/bitcoin/bitcoin/pull/27460)
 - [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
 - [p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
+- [net: transport abstraction](https://github.com/bitcoin/bitcoin/pull/28165)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
