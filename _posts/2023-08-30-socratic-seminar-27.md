@@ -105,3 +105,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Miscellaneous
 
 - [Waiting for confirmation Optech series](https://bitcoinops.org/en/blog/waiting-for-confirmation/)
+- [luke-jr implements BIP300 in Bitcoin Core](https://twitter.com/Truthcoin/status/1693803422091272675)
