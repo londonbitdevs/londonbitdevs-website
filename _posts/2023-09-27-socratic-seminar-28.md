@@ -44,7 +44,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [Bump unconfirmed ancestor transactions to target feerate ](https://github.com/bitcoin/bitcoin/pull/26152)
+- [add importmempool RPC](https://github.com/bitcoin/bitcoin/pull/27460)
+- [default acceptnonstdtxn=0 on all chains](https://github.com/bitcoin/bitcoin/pull/28354)
+- [net transport abstraction](https://github.com/bitcoin/bitcoin/pull/28165)
+- [BIP324 connection support](https://github.com/bitcoin/bitcoin/pull/28196)
+- [BIP324 integration](https://github.com/bitcoin/bitcoin/pull/28331) (open)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -78,4 +83,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Bitcoin Optech Podcast Special: Waiting for confirmation](https://bitcoinops.org/en/podcast/2023/09/waiting-for-confirmation/)
