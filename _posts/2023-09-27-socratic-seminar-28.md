@@ -27,7 +27,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#28165 transport abstraction](https://bitcoincore.reviews/28165)
 
 ### Optech
 - [Newsletter #266](https://bitcoinops.org/en/newsletters/2023/08/30/), [audio recap](https://bitcoinops.org/en/podcast/2023/08/31/)
