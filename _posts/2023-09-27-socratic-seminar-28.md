@@ -53,11 +53,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Bump unconfirmed ancestor transactions to target feerate ](https://github.com/bitcoin/bitcoin/pull/26152)
-- [add importmempool RPC](https://github.com/bitcoin/bitcoin/pull/27460)
 - [default acceptnonstdtxn=0 on all chains](https://github.com/bitcoin/bitcoin/pull/28354)
-- [net transport abstraction](https://github.com/bitcoin/bitcoin/pull/28165)
 - [BIP324 connection support](https://github.com/bitcoin/bitcoin/pull/28196)
 - [BIP324 integration](https://github.com/bitcoin/bitcoin/pull/28331) (open)
+- [build: Produce a `.zip` for macOS distribution](https://github.com/bitcoin/bitcoin/pull/28432)
+- [rpc: Deprecate rpcserialversion=0](https://github.com/bitcoin/bitcoin/pull/28448)
+- [RPC: `descriptorprocesspsbt` returns hex encoded tx if complete](https://github.com/bitcoin/bitcoin/pull/28492)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
