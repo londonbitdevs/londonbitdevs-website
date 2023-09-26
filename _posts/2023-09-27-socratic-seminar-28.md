@@ -48,7 +48,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### InfoSec
--
+- [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://muoitran.com/publications/revelio.pdf)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -62,13 +62,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
--
+- [multi: merge simple taproot channels staging branch into master](https://github.com/lightningnetwork/lnd/pull/7904)
+
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [Support constructing blinded path onion keys](https://github.com/lightningdevkit/rust-lightning/pull/2411)
+- [Support third-party watchtowers in persistence pipeline](https://github.com/lightningdevkit/rust-lightning/pull/2337)
 
 ### [Eclair](https://github.com/ACINQ/eclair)
--
+- [Add RPC to bump local commit fees](https://github.com/ACINQ/eclair/pull/2743)
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 -
