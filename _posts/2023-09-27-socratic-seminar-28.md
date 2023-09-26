@@ -80,7 +80,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [B'SST: Bitcoin-like Script Symbolic Tracer](https://github.com/dgpv/bsst)
 
 ## Events and Podcasts
 -
@@ -93,3 +93,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Miscellaneous
 - [Bitcoin Optech Podcast Special: Waiting for confirmation](https://bitcoinops.org/en/podcast/2023/09/waiting-for-confirmation/)
+- [Machankura announces additive batching feature](https://twitter.com/machankura8333/status/1695827506794754104)
+- ["The mempool is still a PvP zone for ordinals BRC-20 minters."](https://twitter.com/mononautical/status/1705457795745595570)
