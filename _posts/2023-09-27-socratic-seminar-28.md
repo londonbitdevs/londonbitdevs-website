@@ -27,9 +27,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Actuarial System To Reduce Interactivity In N-of-N (N > 2) Multiparticipant Offchain Mechanisms](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021942.html)
 - [Solving CoinPool high-interactivity issue with cut-through update of Taproot leaves](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021969.html)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#28165 transport abstraction](https://bitcoincore.reviews/28165)
@@ -40,12 +37,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #266](https://bitcoinops.org/en/newsletters/2023/09/13/), [audio recap](https://bitcoinops.org/en/podcast/2023/09/14/)
 - [Newsletter #266](https://bitcoinops.org/en/newsletters/2023/09/20/), [audio recap](https://bitcoinops.org/en/podcast/2023/09/21/)
 
-## Network Data
--
-
 ## CVEs and Research
-### Research
--
 
 ### InfoSec
 - [Revelio: A Network-Level Privacy Attack in the Lightning Network](https://muoitran.com/publications/revelio.pdf)
@@ -72,26 +64,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Eclair](https://github.com/ACINQ/eclair)
 - [Add RPC to bump local commit fees](https://github.com/ACINQ/eclair/pull/2743)
 
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIP]
--
-
-### [BOLT]
--
-
 ## New Releases
 - [B'SST: Bitcoin-like Script Symbolic Tracer](https://github.com/dgpv/bsst)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Bitcoin Optech Podcast Special: Waiting for confirmation](https://bitcoinops.org/en/podcast/2023/09/waiting-for-confirmation/)
