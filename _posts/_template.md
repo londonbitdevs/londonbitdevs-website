@@ -59,7 +59,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 -
 
-### [BIP]
+### [BIPs](https://github.com/bitcoin/bips)
 -
 
 ### [BOLT]

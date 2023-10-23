@@ -77,7 +77,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [v23.05.1: Austin Texas Agreement (ATXA) 2](https://github.com/ElementsProject/lightning/releases/tag/v23.05.1)
 - [Configuration rework](https://github.com/ElementsProject/lightning/pull/6243)
 
-### [BIP]
+### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 329: Add spendable state to outputs](https://github.com/bitcoin/bips/pull/1452)
 
 ## Miscellaneous
