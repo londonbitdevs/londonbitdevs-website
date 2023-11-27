@@ -20,7 +20,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [OP\_Expire and Coinbase-Like Behavior: Making HTLCs Safer by Letting Transactions Expire Safely](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022108.html)
+- [Bitcoin Core 26.0 release candidate 2 available](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022118.html)
+- [Cold channels and PathCoin redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
+- [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
+- [Implementing Blake3 in Bitcoin Script](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022154.html)
+- [Purely off-chain coin colouring](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022176.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
