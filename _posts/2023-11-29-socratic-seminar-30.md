@@ -49,8 +49,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-<!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [\[26.x\] Changes for rc3](https://github.com/bitcoin/bitcoin/pull/28872)
+- [doc: Add offline signing tutorial](https://github.com/bitcoin/bitcoin/pull/28363)
+- [Fee estimation: extend bucket ranges consistently](https://github.com/bitcoin/bitcoin/pull/21161)
+- [p2p: do not make automatic outbound connections to addnode peers](https://github.com/bitcoin/bitcoin/pull/28895)
+- [net: improves addnode / m_added_nodes logic](https://github.com/bitcoin/bitcoin/pull/28155)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
