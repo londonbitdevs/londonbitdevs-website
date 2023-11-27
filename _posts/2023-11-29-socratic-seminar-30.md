@@ -27,7 +27,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#28368 Fee Estimator updates from Validation Interface/CScheduler thread](https://bitcoincore.reviews/28368)
+  - [Testing Bitcoin Core 26.0 Release Candidates](https://bitcoincore.reviews/v26-rc-testing)
 
 ### Optech
 - [Newsletter #274](https://bitcoinops.org/en/newsletters/2023/10/25/), [audio recap](https://bitcoinops.org/en/podcast/2023/10/26/)
