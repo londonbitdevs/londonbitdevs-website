@@ -35,6 +35,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Lightning Address in a Bolt 12 world](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
+- [HTLC output aggregation as a mitigation for tx recycling, jamming, and on-chain efficiency
+  (covenants)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004181.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -60,11 +62,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [\[26.x\] Changes for rc3](https://github.com/bitcoin/bitcoin/pull/28872)
 - [doc: Add offline signing tutorial](https://github.com/bitcoin/bitcoin/pull/28363)
 - [Fee estimation: extend bucket ranges consistently](https://github.com/bitcoin/bitcoin/pull/21161)
 - [p2p: do not make automatic outbound connections to addnode peers](https://github.com/bitcoin/bitcoin/pull/28895)
-- [net: improves addnode / m_added_nodes logic](https://github.com/bitcoin/bitcoin/pull/28155)
+- [mempool: persist with XOR](https://github.com/bitcoin/bitcoin/pull/28207)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -74,10 +75,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [Eclair](https://github.com/ACINQ/eclair)
--
+- [Avoid unusable channels after a large splice](https://github.com/ACINQ/eclair/pull/2761)
+- [Add support for sciddir_or_pubkey](https://github.com/ACINQ/eclair/pull/2752)
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 -
+
+### [Core Lightning](https://github.com/ElementsProject/lightning)
+- [Anchors multi utxo](https://github.com/ElementsProject/lightning/pull/6780)
+- [ Add next_funding_txid awareness for dual-fund opens](https://github.com/ElementsProject/lightning/pull/6824)
 
 ### [BIPs](https://github.com/bitcoin/bips)
 -
