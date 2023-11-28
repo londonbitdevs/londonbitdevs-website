@@ -50,58 +50,21 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #277](https://bitcoinops.org/en/newsletters/2023/11/15/), [audio recap](https://bitcoinops.org/en/podcast/2023/11/16/)
 - [Newsletter #278](https://bitcoinops.org/en/newsletters/2023/11/22/), [audio recap](https://bitcoinops.org/en/podcast/2023/11/23/)
 
-## Network Data
--
-
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [doc: Add offline signing tutorial](https://github.com/bitcoin/bitcoin/pull/28363)
-- [Fee estimation: extend bucket ranges consistently](https://github.com/bitcoin/bitcoin/pull/21161)
-- [p2p: do not make automatic outbound connections to addnode peers](https://github.com/bitcoin/bitcoin/pull/28895)
 - [mempool: persist with XOR](https://github.com/bitcoin/bitcoin/pull/28207)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
 
 ### [Eclair](https://github.com/ACINQ/eclair)
 - [Avoid unusable channels after a large splice](https://github.com/ACINQ/eclair/pull/2761)
 - [Add support for sciddir_or_pubkey](https://github.com/ACINQ/eclair/pull/2752)
 
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Anchors multi utxo](https://github.com/ElementsProject/lightning/pull/6780)
 - [ Add next_funding_txid awareness for dual-fund opens](https://github.com/ElementsProject/lightning/pull/6824)
 
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core 26.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.0/)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Field Report: A Miniscript Journey](https://bitcoinops.org/en/wizardsardine-miniscript/)
