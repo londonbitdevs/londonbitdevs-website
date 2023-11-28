@@ -18,6 +18,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 * [lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
+
+### Delving Bitcoin
+- [Segwit Ephemeral Anchors](https://delvingbitcoin.org/t/segwit-ephemeral-anchors/160)
+- [Covenant tools softfork](https://delvingbitcoin.org/t/covenant-tools-softfork/98)
+- [Fedimint Overview and Fedipool Theorizing](https://delvingbitcoin.org/t/fedimint-overview-and-fedipool-theorizing/110)
+
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [OP\_Expire and Coinbase-Like Behavior: Making HTLCs Safer by Letting Transactions Expire Safely](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022108.html)
@@ -28,7 +34,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Purely off-chain coin colouring](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022176.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+- [Lightning Address in a Bolt 12 world](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -92,4 +98,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Field Report: A Miniscript Journey](https://bitcoinops.org/en/wizardsardine-miniscript/)
