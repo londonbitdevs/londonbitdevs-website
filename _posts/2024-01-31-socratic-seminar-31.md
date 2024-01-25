@@ -27,7 +27,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#28690 Introduce internal kernel library](https://bitcoincore.reviews/28690)
+  - [#28956 Nuke adjusted time (attempt 2)](https://bitcoincore.reviews/28956)
 
 ### Optech
 - [Newsletter #279](https://bitcoinops.org/en/newsletters/2023/11/29/), [audio recap](https://bitcoinops.org/en/podcast/2023/11/30/)
