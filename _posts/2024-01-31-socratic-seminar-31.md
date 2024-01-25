@@ -73,7 +73,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
+- [LNHANCE inquisition (CSFS, INTERNALKEY)](https://github.com/bitcoin-inquisition/bitcoin/pull/45)
+- [getdeploymentinfo: Report BINANA ids](https://github.com/bitcoin-inquisition/bitcoin/pull/47)
+- 
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Ephemeral anchors](https://github.com/bitcoin/bips/pull/1524)
