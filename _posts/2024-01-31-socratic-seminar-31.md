@@ -20,7 +20,16 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [Bitcoin Core 26.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022187.html)
+- [Altruistic Rebroadcasting - A Partial Replacement Cycling Mitigation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022188.html)
+- [Lamport scheme (not signature) to economize on L1](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022201.html)
+- [Scaling Lightning Safely With Feerate-Dependent Timelocks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022191.html)
+- [V3 Transactions are still vulnerable to significant tx pinning griefing attacks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022211.html)
+- [Compressed Bitcoin Transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022269.html)
+- [Introducing a version field to BIP39 mnemonic phrases](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022275.html)
+- [BitBlend Proposal for 2106](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022285.html)
+- [One-Shot Replace-By-Fee-Rate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022298.html)
+
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -75,9 +84,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [LNHANCE inquisition (CSFS, INTERNALKEY)](https://github.com/bitcoin-inquisition/bitcoin/pull/45)
 - [getdeploymentinfo: Report BINANA ids](https://github.com/bitcoin-inquisition/bitcoin/pull/47)
-- 
 
 ### [BIPs](https://github.com/bitcoin/bips)
+- [BIP process friction](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022289.html)
 - [Ephemeral anchors](https://github.com/bitcoin/bips/pull/1524)
 - [BIP for reenabling OP\_CAT](https://github.com/bitcoin/bips/pull/1525)
 - [Opt-In Policy For More Robust Fee-bumping](https://github.com/bitcoin/bips/pull/1541)
@@ -102,4 +111,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [RFC: Deprecate libconsensus](https://github.com/bitcoin/bitcoin/pull/29189)
