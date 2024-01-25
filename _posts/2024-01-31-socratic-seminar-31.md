@@ -30,7 +30,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
   -
 
 ### Optech
-- <!--- TODO: [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/) -->
+- [Newsletter #279](https://bitcoinops.org/en/newsletters/2023/11/29/), [audio recap](https://bitcoinops.org/en/podcast/2023/11/30/)
+- [Newsletter #280](https://bitcoinops.org/en/newsletters/2023/12/06/), [audio recap](https://bitcoinops.org/en/podcast/2023/12/07/)
+- [Newsletter #281](https://bitcoinops.org/en/newsletters/2023/12/13/), [audio recap](https://bitcoinops.org/en/podcast/2023/12/14/)
+- [Newsletter #282](https://bitcoinops.org/en/newsletters/2023/12/20/), [audio recap](https://bitcoinops.org/en/podcast/2023/12/21/)
+- [Newsletter #283](https://bitcoinops.org/en/newsletters/2023/12/27/), [audio recap](https://bitcoinops.org/en/podcast/2023/12/28/)
+- [Newsletter #284](https://bitcoinops.org/en/newsletters/2024/01/03/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/04/)
+- [Newsletter #285](https://bitcoinops.org/en/newsletters/2024/01/10/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/11/)
+- [Newsletter #286](https://bitcoinops.org/en/newsletters/2024/01/17/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/18/)
+- [Newsletter #287](https://bitcoinops.org/en/newsletters/2024/01/24/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/25/)
 
 ## Network Data
 -
