@@ -54,8 +54,14 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
-
+- [net, cli: use v2transport for manual/addrfetch connections, add to -netinfo](https://github.com/bitcoin/bitcoin/pull/29058)
+- [rpc: Make v2transport default for addnode RPC when enabled](https://github.com/bitcoin/bitcoin/pull/29239)
+- [Fee Estimator updates from Validation Interface/CScheduler thread](https://github.com/bitcoin/bitcoin/pull/28368)
+- [wallet: Pass through transaction locktime and preset input sequences and scripts to CreateTransaction](https://github.com/bitcoin/bitcoin/pull/25273)
+- [wallet: skip BnB when SFFO is enabled](https://github.com/bitcoin/bitcoin/pull/28994)
+- [doc: Add multiprocess design doc](https://github.com/bitcoin/bitcoin/pull/28978)
+- [rpc: encryptwallet help, mention HD seed rotation and backup requirement](https://github.com/bitcoin/bitcoin/pull/28980)
+- [log mempool loading progress](https://github.com/bitcoin/bitcoin/pull/29227)
 
 ### [LND](https://github.com/lightningnetwork/lnd)
 -
