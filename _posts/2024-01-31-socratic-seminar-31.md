@@ -76,7 +76,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [Ephemeral anchors](https://github.com/bitcoin/bips/pull/1524)
+- [BIP for reenabling OP\_CAT](https://github.com/bitcoin/bips/pull/1525)
+- [Opt-In Policy For More Robust Fee-bumping](https://github.com/bitcoin/bips/pull/1541)
+- [64bit arithmetic op codes](https://github.com/bitcoin/bips/pull/1538)
+- [Add bip-internalkey](https://github.com/bitcoin/bips/pull/1534)
+- [Add bip-csfs OP\_CHECKSIGFROMSTACK(VERIFY)](https://github.com/bitcoin/bips/pull/1535)
+- [BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
 
 ### [BOLT]
 -
