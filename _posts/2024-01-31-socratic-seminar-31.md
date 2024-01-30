@@ -17,7 +17,19 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 * [lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 
-## Mailing Lists, Meetings and Bitcoin Optech
+## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
+
+### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [V3 transaction policy for anti-pinning](https://delvingbitcoin.org/t/v3-transaction-policy-for-anti-pinning/340/)
+- [Lightning transactions with v3 and ephemeral anchors](https://delvingbitcoin.org/t/lightning-transactions-with-v3-and-ephemeral-anchors/418)
+- [LN-Symmetry Project Recap](https://delvingbitcoin.org/t/ln-symmetry-project-recap/359)
+- [Sibling Eviction for v3 transactions](https://delvingbitcoin.org/t/sibling-eviction-for-v3-transactions/472)
+- [Denial-of-service bugs in LND’s channel update gossip handling](https://delvingbitcoin.org/t/denial-of-service-bugs-in-lnds-channel-update-gossip-handling/314)
+- [Disclosure: Btcd consensus bugs due to usage of signed transaction version](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version/455)
+- [DoS disclosure: Channel open race in CLN](https://delvingbitcoin.org/t/dos-disclosure-channel-open-race-in-cln/385)
+- [Stratum v2 Noise Protocol: BIP324 nuggets](https://delvingbitcoin.org/t/stratum-v2-noise-protocol-bip324-nuggets/413)
+
+
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [Bitcoin Core 26.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022187.html)
