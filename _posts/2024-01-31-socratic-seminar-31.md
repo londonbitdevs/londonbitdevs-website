@@ -42,10 +42,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [BitBlend Proposal for 2106](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022285.html)
 - [One-Shot Replace-By-Fee-Rate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022298.html)
 
-
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#28690 Introduce internal kernel library](https://bitcoincore.reviews/28690)
@@ -62,19 +58,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #286](https://bitcoinops.org/en/newsletters/2024/01/17/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/18/)
 - [Newsletter #287](https://bitcoinops.org/en/newsletters/2024/01/24/), [audio recap](https://bitcoinops.org/en/podcast/2024/01/25/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [Ledger Connect Kit](https://www.ledger.com/blog/security-incident-report)
 
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-<!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
 - [net, cli: use v2transport for manual/addrfetch connections, add to -netinfo](https://github.com/bitcoin/bitcoin/pull/29058)
 - [rpc: Make v2transport default for addnode RPC when enabled](https://github.com/bitcoin/bitcoin/pull/29239)
 - [Fee Estimator updates from Validation Interface/CScheduler thread](https://github.com/bitcoin/bitcoin/pull/28368)
@@ -83,15 +72,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [doc: Add multiprocess design doc](https://github.com/bitcoin/bitcoin/pull/28978)
 - [rpc: encryptwallet help, mention HD seed rotation and backup requirement](https://github.com/bitcoin/bitcoin/pull/28980)
 - [log mempool loading progress](https://github.com/bitcoin/bitcoin/pull/29227)
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [LNHANCE inquisition (CSFS, INTERNALKEY)](https://github.com/bitcoin-inquisition/bitcoin/pull/45)
@@ -106,21 +86,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Add bip-internalkey](https://github.com/bitcoin/bips/pull/1534)
 - [Add bip-csfs OP\_CHECKSIGFROMSTACK(VERIFY)](https://github.com/bitcoin/bips/pull/1535)
 - [BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
-
-### [BOLT]
--
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [RFC: Deprecate libconsensus](https://github.com/bitcoin/bitcoin/pull/29189)
