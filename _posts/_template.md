@@ -21,7 +21,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
 ### Mailing Lists
-#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+#### [bitcoindev](https://groups.google.com/g/bitcoindev)
 -
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
