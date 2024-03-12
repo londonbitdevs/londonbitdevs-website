@@ -52,7 +52,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [v3 transaction policy for anti-pinning](https://github.com/bitcoin/bitcoin/pull/28948)
+- [wallet: Add CoinGrinder coin selection algorithm](https://github.com/bitcoin/bitcoin/pull/27877)
+- [p2p: Don't process mutated blocks](https://github.com/bitcoin/bitcoin/pull/29412)
+- [rpc: Drop migratewallet experimental warning](https://github.com/bitcoin/bitcoin/pull/28037)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
