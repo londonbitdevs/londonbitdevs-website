@@ -16,9 +16,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 * [lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 
-## Mailing Lists, Meetings and Bitcoin Optech
+## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
+### [Delving Bitcoin](https://delvingbitcoin.org/)
+
 ### Mailing Lists
-#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+#### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 -
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
