@@ -18,6 +18,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Mempool Incentive Compatibility](https://delvingbitcoin.org/t/mempool-incentive-compatibility/553)
+- [State minimization in MuSig2 signing sessions](https://delvingbitcoin.org/t/state-minimization-in-musig2-signing-sessions/626)
+- [Perpetually KYC'd Coins Using Evil Covenants](https://delvingbitcoin.org/t/perpetually-kycd-coins-using-evil-covenants/556)
+- [Revisiting BIP21](https://delvingbitcoin.org/t/revisiting-bip21/630)
+- 
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
