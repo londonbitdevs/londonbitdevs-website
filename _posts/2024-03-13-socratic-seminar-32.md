@@ -68,10 +68,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
+- [Re enable `OP_CAT`](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [Add OP\_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
 
 ### [BOLT]
 -
