@@ -20,8 +20,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
 ### Mailing Lists
-#### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
--
+#### [bitcoindev](https://groups.google.com/g/bitcoindev)
+- [bitcoin-dev Mailing List Migration (Action Required)](https://groups.google.com/g/bitcoindev/c/aewBuV6k-LI)
+- [Mapping Human-Readable Names to Payment Instructions](https://groups.google.com/g/bitcoindev/c/uATaflkYglQ)
+- [Over Half of Replace-by-Fee-Rate Replacements Are Mined](https://groups.google.com/g/bitcoindev/c/FMj8alIJlus)
+- [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
+- [Bitcoin Core 27.0 release candidate 1 available](https://groups.google.com/g/bitcoindev/c/jnK3CJAcbUE)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
