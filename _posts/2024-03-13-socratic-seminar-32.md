@@ -22,7 +22,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [State minimization in MuSig2 signing sessions](https://delvingbitcoin.org/t/state-minimization-in-musig2-signing-sessions/626)
 - [Perpetually KYC'd Coins Using Evil Covenants](https://delvingbitcoin.org/t/perpetually-kycd-coins-using-evil-covenants/556)
 - [Revisiting BIP21](https://delvingbitcoin.org/t/revisiting-bip21/630)
-- 
+- [Unilateral Exit](https://delvingbitcoin.org/t/unilateral-exit/664)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -86,7 +86,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 26.1 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.0/)
+- [Bitcoin Core 27.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-27.0/)
 
 ## Events and Podcasts
 -
@@ -98,4 +99,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Marathon Digital Holdings Launches Slipstream](https://ir.mara.com/news-events/press-releases/detail/1343/marathon-digital-holdings-launches-slipstream)
+- [Sharing the Code Behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
+- [Swaproot: cheaper and more private on-chain deposits on Phoenix](https://acinq.co/blog/phoenix-swaproot)
+- [Schnorr (Incremental) Half Aggregation #261](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/261)
+- [New version of http://learnmeabitcoin.com is now online](https://twitter.com/in3rsha/status/1765727225918128208)
