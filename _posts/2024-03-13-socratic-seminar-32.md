@@ -28,7 +28,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#28950 Add \`maxfeerate\` and \`maxburnamount\` args to submitpackage](https://bitcoincore.reviews/28950)
+  - [bitcoin-inquisition #39: Re enable OP\_CAT](https://bitcoincore.reviews/bitcoin-inquisition-39)
 
 ### Optech
 - [Newsletter #287](https://bitcoinops.org/en/newsletters/2024/01/31/), [audio recap](https://bitcoinops.org/en/podcast/2024/02/01/)
