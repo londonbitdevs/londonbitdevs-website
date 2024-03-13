@@ -3,6 +3,7 @@ layout: post
 type: socratic
 title: "Socratic Seminar #32 - Conference Edition"
 meetup: https://www.meetup.com/bitdevsldn/events/299631221/
+---
 
 ## Announcements
 
