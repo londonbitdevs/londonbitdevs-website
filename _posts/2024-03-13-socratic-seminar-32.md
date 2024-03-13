@@ -19,10 +19,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Mempool Incentive Compatibility](https://delvingbitcoin.org/t/mempool-incentive-compatibility/553)
+- [Analysis of attempting to imbue LN commitment transaction spends with v3 semantics](https://delvingbitcoin.org/t/analysis-of-attempting-to-imbue-ln-commitment-transaction-spends-with-v3-semantics/527)
 - [State minimization in MuSig2 signing sessions](https://delvingbitcoin.org/t/state-minimization-in-musig2-signing-sessions/626)
 - [Perpetually KYC'd Coins Using Evil Covenants](https://delvingbitcoin.org/t/perpetually-kycd-coins-using-evil-covenants/556)
 - [Revisiting BIP21](https://delvingbitcoin.org/t/revisiting-bip21/630)
 - [Unilateral Exit](https://delvingbitcoin.org/t/unilateral-exit/664)
+- [64 bit arithmetic soft fork](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397)
+- [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -39,6 +42,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#28950 Add \`maxfeerate\` and \`maxburnamount\` args to submitpackage](https://bitcoincore.reviews/28950)
   - [bitcoin-inquisition #39: Re enable OP\_CAT](https://bitcoincore.reviews/bitcoin-inquisition-39)
+  - [bitcoin-inquisition #45: LNHANCE](https://bitcoincore.reviews/bitcoin-inquisition-45)
 
 ### Optech
 - [Newsletter #287](https://bitcoinops.org/en/newsletters/2024/01/31/), [audio recap](https://bitcoinops.org/en/podcast/2024/02/01/)
@@ -62,6 +66,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
 - [v3 transaction policy for anti-pinning](https://github.com/bitcoin/bitcoin/pull/28948)
+- [policy: enable sibling eviction for v3 transactions](https://github.com/bitcoin/bitcoin/pull/29306)
 - [wallet: Add CoinGrinder coin selection algorithm](https://github.com/bitcoin/bitcoin/pull/27877)
 - [p2p: Don't process mutated blocks](https://github.com/bitcoin/bitcoin/pull/29412)
 - [rpc: Drop migratewallet experimental warning](https://github.com/bitcoin/bitcoin/pull/28037)
@@ -81,6 +86,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add OP\_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
+- [OP\_INOUT\_AMOUNT](https://github.com/Christewart/bips/blob/92c108136a0400b3a2fd66ea6c291ec317ee4a01/bip-op-inout-amount.mediawiki)
 
 ### [BOLT]
 -
