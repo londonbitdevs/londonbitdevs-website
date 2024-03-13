@@ -71,7 +71,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [Unleashing Liquidity on the Lightning Network with "lightning-liquidity"](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
 
 ### [Eclair](https://github.com/ACINQ/eclair)
 -
@@ -104,3 +104,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Swaproot: cheaper and more private on-chain deposits on Phoenix](https://acinq.co/blog/phoenix-swaproot)
 - [Schnorr (Incremental) Half Aggregation #261](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/261)
 - [New version of http://learnmeabitcoin.com is now online](https://twitter.com/in3rsha/status/1765727225918128208)
+- [Introducing Portal: the hardware wallet for mobile users](https://twenty-two.xyz/)
+- [Bitcoin Symbol Campaign](https://github.com/londonbitdevs/londonbitdevs-website/pull/26)
