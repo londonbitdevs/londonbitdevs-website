@@ -28,6 +28,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [64 bit arithmetic soft fork](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397)
 - [OP\_INOUT\_AMOUNT](https://delvingbitcoin.org/t/op-inout-amount)
 - [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
+- [Economic-Majority Signaling for OP_CTV Activation](https://delvingbitcoin.org/t/economic-majority-signaling-for-op-ctv-activation/635)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -55,7 +56,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #292](https://bitcoinops.org/en/newsletters/2024/03/06/), [audio recap](https://bitcoinops.org/en/podcast/2024/03/07/)
 
 ## Network Data
--
+- [Some statistics on the current UTXO set](https://twitter.com/murchandamus/status/1767631403615764764)
+- [Mempool stats](https://mempool.space/graphs/mempool#3m)
 
 ## CVEs and Research
 ### Research
@@ -95,6 +97,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## New Releases
 - [Bitcoin Core 26.1 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.1/)
 - [Bitcoin Core 27.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-27.0/)
+- [Mutiny Wallet now available for Android and iOS](https://blog.mutinywallet.com/mutiny-wallet-android-and-ios/)
 
 ## Events and Podcasts
 -
@@ -112,3 +115,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Schnorr (Incremental) Half Aggregation #261](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/261)
 - [New version of http://learnmeabitcoin.com is now online](https://twitter.com/in3rsha/status/1765727225918128208)
 - [Introducing Portal: the hardware wallet for mobile users](https://twenty-two.xyz/)
+- [Lightning Wallets: Self-Custody Despite Poor Network Connection - Best Apps Tested in Zimbabwe 2024](https://anitaposch.com/lightning-wallet-test-2024)
