@@ -86,7 +86,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
-- [Bitcoin Core 26.1 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.0/)
+- [Bitcoin Core 26.1 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.1/)
 - [Bitcoin Core 27.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-27.0/)
 
 ## Events and Podcasts
