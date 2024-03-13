@@ -25,6 +25,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Revisiting BIP21](https://delvingbitcoin.org/t/revisiting-bip21/630)
 - [Unilateral Exit](https://delvingbitcoin.org/t/unilateral-exit/664)
 - [64 bit arithmetic soft fork](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397)
+- [OP\_INOUT\_AMOUNT](https://delvingbitcoin.org/t/op-inout-amount)
 - [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
 
 ### Mailing Lists
@@ -86,7 +87,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add OP\_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
-- [OP\_INOUT\_AMOUNT](https://github.com/Christewart/bips/blob/92c108136a0400b3a2fd66ea6c291ec317ee4a01/bip-op-inout-amount.mediawiki)
 
 ### [BOLT]
 -
@@ -111,4 +111,3 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Schnorr (Incremental) Half Aggregation #261](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/261)
 - [New version of http://learnmeabitcoin.com is now online](https://twitter.com/in3rsha/status/1765727225918128208)
 - [Introducing Portal: the hardware wallet for mobile users](https://twenty-two.xyz/)
-- [Bitcoin Symbol Campaign](https://github.com/londonbitdevs/londonbitdevs-website/pull/26)
