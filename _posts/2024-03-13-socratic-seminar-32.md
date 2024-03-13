@@ -38,9 +38,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
 - [Bitcoin Core 27.0 release candidate 1 available](https://groups.google.com/g/bitcoindev/c/jnK3CJAcbUE)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#28950 Add \`maxfeerate\` and \`maxburnamount\` args to submitpackage](https://bitcoincore.reviews/28950)
@@ -59,13 +56,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Some statistics on the current UTXO set](https://twitter.com/murchandamus/status/1767631403615764764)
 - [Mempool stats](https://mempool.space/graphs/mempool#3m)
 
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
@@ -75,15 +65,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [p2p: Don't process mutated blocks](https://github.com/bitcoin/bitcoin/pull/29412)
 - [rpc: Drop migratewallet experimental warning](https://github.com/bitcoin/bitcoin/pull/28037)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Unleashing Liquidity on the Lightning Network with "lightning-liquidity"](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
 
-### [Eclair](https://github.com/ACINQ/eclair)
--
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [Re enable `OP_CAT`](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
@@ -91,22 +75,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add OP\_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
 
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core 26.1 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-26.1/)
 - [Bitcoin Core 27.0 Release Candidates](https://bitcoincore.org/bin/bitcoin-core-27.0/)
 - [Mutiny Wallet now available for Android and iOS](https://blog.mutinywallet.com/mutiny-wallet-android-and-ios/)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Marathon Digital Holdings Launches Slipstream](https://ir.mara.com/news-events/press-releases/detail/1343/marathon-digital-holdings-launches-slipstream)
