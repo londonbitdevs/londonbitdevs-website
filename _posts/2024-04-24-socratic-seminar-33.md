@@ -29,7 +29,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#29221 Implement 64 bit arithmetic op codes in the Script interpreter](https://bitcoincore.reviews/29221)
+  - [Testing Bitcoin Core 27.0 Release Candidates](https://bitcoincore.reviews/v27-rc-testing)
 
 ### Optech
 - [Newsletter #293](https://bitcoinops.org/en/newsletters/2024/03/13/), [audio recap](https://bitcoinops.org/en/podcast/2024/03/14/)
