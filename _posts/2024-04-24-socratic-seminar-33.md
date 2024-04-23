@@ -19,6 +19,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Great Consensus Cleanup Revival](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
+- [BIP324 Proxy: easy integration of v2 transport protocol for light clients (PoC)](https://delvingbitcoin.org/t/bip324-proxy-easy-integration-of-v2-transport-protocol-for-light-clients-poc/678)
+- [Mempool Based Fee Estimation on Bitcoin Core](https://delvingbitcoin.org/t/mempool-based-fee-estimation-on-bitcoin-core/703)
+- [BTC Lisp as an alternative to Script](https://delvingbitcoin.org/t/btc-lisp-as-an-alternative-to-script/682)
+- [DSL for experimenting with contracts](https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748)
+- [Second Look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks/805)
+- [Basic vault prototype using OP\_CAT](https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat/576)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -55,7 +62,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [Mempool util: Add RBF diagram checks for single chunks against clusters of size 2](https://github.com/bitcoin/bitcoin/pull/29242)
+- [p2p: Allow whitelisting manual connections](https://github.com/bitcoin/bitcoin/pull/27114)
+- [net: support unix domain sockets for -proxy and -onion](https://github.com/bitcoin/bitcoin/pull/27375)
+- [RPC: Add maxfeerate and maxburnamount args to submitpackage](https://github.com/bitcoin/bitcoin/pull/28950)
+- [wallet: Add createwalletdescriptor and gethdkeys RPCs for adding new automatically generated descriptors](https://github.com/bitcoin/bitcoin/pull/29130)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
