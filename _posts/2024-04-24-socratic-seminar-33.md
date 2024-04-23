@@ -22,7 +22,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU/m/9yCPo3uUBwAJ)
+- [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ)
+- [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA/m/cA2P2UalAgAJ)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -75,7 +77,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 27.0 released](https://groups.google.com/g/bitcoindev/c/bU46ykb2uig/m/JiPyoV70AQAJ)
+- [Bitcoin Core 26.1 released](https://groups.google.com/g/bitcoindev/c/3UESYfaGPlM/m/rmTzmSukAAAJ)
 
 ## Events and Podcasts
 -
