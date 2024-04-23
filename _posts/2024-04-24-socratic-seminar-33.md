@@ -33,9 +33,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ)
 - [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA/m/cA2P2UalAgAJ)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#29221 Implement 64 bit arithmetic op codes in the Script interpreter](https://bitcoincore.reviews/29221)
@@ -48,9 +45,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #296](https://bitcoinops.org/en/newsletters/2024/04/03/), [audio recap](https://bitcoinops.org/en/podcast/2024/04/04/)
 - [Newsletter #297](https://bitcoinops.org/en/newsletters/2024/04/10/), [audio recap](https://bitcoinops.org/en/podcast/2024/04/11/)
 - [Newsletter #298](https://bitcoinops.org/en/newsletters/2024/04/17/), [audio recap](https://bitcoinops.org/en/podcast/2024/04/18/)
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -73,29 +67,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [LND](https://github.com/lightningnetwork/lnd)
 - [[2/3]: Support Forwarding of Blinded Payments](https://github.com/lightningnetwork/lnd/pull/8160)
 
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BOLT]
--
 
 ## New Releases
 - [Bitcoin Core 27.0 released](https://groups.google.com/g/bitcoindev/c/bU46ykb2uig/m/JiPyoV70AQAJ)
 - [Bitcoin Core 26.1 released](https://groups.google.com/g/bitcoindev/c/3UESYfaGPlM/m/rmTzmSukAAAJ)
 - [phoenixd v0.1.0](https://phoenix.acinq.co/server)
 - [phoenixd-lnurl v0.1.0](https://github.com/AngusP/phoenixd-lnurl)
-
-## Events and Podcasts
--
 
 ## Mining
 
