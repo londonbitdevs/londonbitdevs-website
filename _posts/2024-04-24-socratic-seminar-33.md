@@ -54,7 +54,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [BitVM 2: Permissionless Verification on Bitcoin](https://bitvm.org/bitvm2)
+- [Hedgehog: A protocol for asynchronous layer two bitcoin payments](https://stacker.news/items/481321)
 
 ### InfoSec
 - [Libbitcoin response to CVE-2023-39910 / Milk Sad](https://github.com/libbitcoin/libbitcoin-explorer/wiki/CVE-2023-39910)
@@ -70,7 +71,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
--
+- [[2/3]: Support Forwarding of Blinded Payments](https://github.com/lightningnetwork/lnd/pull/8160)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 -
@@ -90,6 +91,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## New Releases
 - [Bitcoin Core 27.0 released](https://groups.google.com/g/bitcoindev/c/bU46ykb2uig/m/JiPyoV70AQAJ)
 - [Bitcoin Core 26.1 released](https://groups.google.com/g/bitcoindev/c/3UESYfaGPlM/m/rmTzmSukAAAJ)
+- [phoenixd v0.1.0](https://phoenix.acinq.co/server)
+- [phoenixd-lnurl v0.1.0](https://github.com/AngusP/phoenixd-lnurl)
 
 ## Events and Podcasts
 -
@@ -100,9 +103,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [0xB10C: halving stream](https://www.youtube.com/live/C6D9OEjnWmA?si=rKc8n0X__7M6Yx_E&t=13189)
 - [0xB10C: mining pools sharing block templates and transaction prioritization](https://x.com/0xB10C/status/1780611768081121700)
 - [Mara pool funny block](https://mempool.space/block/0000000000000000000341cc26cda4af82cd25f7063c448772228cbf2836915b?audit=false)
+- [Stratum Reference Implementation 1.0.0](https://stratumprotocol.org/blog/sri-1-0-0/)
+- [BlueMatt: Stop Calling It MEV](https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/)
+- [Braiins Becomes First Mining Pool To Introduce Lightning Payouts](https://bitcoinmagazine.com/business/braiins-becomes-first-mining-pool-to-introduce-lightning-payouts)
+- [Ocean leaving 37 BTC in fees on the table](https://x.com/achow101/status/1781477641280684382)
 
 ## Privacy
--
+- [Teleport Transactions](https://x.com/RajarshiMaitra/status/1768623097819873571)
 
 ## Miscellaneous
 - [CVE-2024-3094: Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
@@ -110,3 +117,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
     - [OSS-security post](https://www.openwall.com/lists/oss-security/2024/03/29/4)
     - [FAQ on the xz-utils backdoor](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
     - [Infographic](https://infosec.exchange/@fr0gger/112189232773640259)
+- [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
+- [Transaction ordering could be used to store information](https://twitter.com/salvatoshi/status/1772619501370036477)
+- [Safety Net](https://wizardsardine.com/blog/safetynet/)
+- [ajtowns: Team Slow and Steady](https://www.erisian.com.au/wordpress/2024/04/20/team-slow-and-steady)
