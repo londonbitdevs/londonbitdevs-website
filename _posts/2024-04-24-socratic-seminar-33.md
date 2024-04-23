@@ -65,7 +65,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
-- [[2/3]: Support Forwarding of Blinded Payments](https://github.com/lightningnetwork/lnd/pull/8160)
+
+- [2/3: Support Forwarding of Blinded Payments](https://github.com/lightningnetwork/lnd/pull/8160)
 
 
 ## New Releases
