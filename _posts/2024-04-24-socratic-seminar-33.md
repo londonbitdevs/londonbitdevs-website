@@ -95,10 +95,18 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Mining
-- [0xB10C on mining pools sharing block templates and transaction prioritization](https://x.com/0xB10C/status/1780611768081121700)
+
+- [0xB10C: ViaBTC's mutated blocks without witness data](https://b10c.me/observations/10-viabtc-blocks-without-witness-data/)
+- [0xB10C: halving stream](https://www.youtube.com/live/C6D9OEjnWmA?si=rKc8n0X__7M6Yx_E&t=13189)
+- [0xB10C: mining pools sharing block templates and transaction prioritization](https://x.com/0xB10C/status/1780611768081121700)
+- [Mara pool funny block](https://mempool.space/block/0000000000000000000341cc26cda4af82cd25f7063c448772228cbf2836915b?audit=false)
 
 ## Privacy
 -
 
 ## Miscellaneous
--
+- [CVE-2024-3094: Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
+    - [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+    - [OSS-security post](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+    - [FAQ on the xz-utils backdoor](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27)
+    - [Infographic](https://infosec.exchange/@fr0gger/112189232773640259)
