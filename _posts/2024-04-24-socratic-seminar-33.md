@@ -57,7 +57,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### InfoSec
--
+- [Libbitcoin response to CVE-2023-39910 / Milk Sad](https://github.com/libbitcoin/libbitcoin-explorer/wiki/CVE-2023-39910)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
