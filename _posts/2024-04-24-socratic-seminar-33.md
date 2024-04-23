@@ -95,7 +95,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Mining
--
+- [0xB10C on mining pools sharing block templates and transaction prioritization](https://x.com/0xB10C/status/1780611768081121700)
 
 ## Privacy
 -
