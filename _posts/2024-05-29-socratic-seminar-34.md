@@ -96,6 +96,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
   - [blindbitd](https://x.com/setor_bl/status/1787557728015012279)
   - [silent-pay](https://x.com/bitshala_org/status/1788594877250367605)
   - [CakeWallet](https://x.com/cakewallet/status/1791500775262437396)
+- [Radicle 1.0](https://x.com/radicle/status/1772659708978991605)
 
 ## Events and Podcasts
 -
