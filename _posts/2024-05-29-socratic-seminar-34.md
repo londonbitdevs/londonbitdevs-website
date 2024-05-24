@@ -50,7 +50,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Script State from Lamport Signatures](https://bitcoinmagazine.com/technical/script-state-from-lamport-signatures-)
+- [Script Restoration First Draft](https://github.com/rustyrussell/bips/pull/1) (also [video](https://www.youtube.com/watch?v=rSp8918HLnA) and [writeup](https://x.com/reardencode/status/1788074956225651060))
 
 ### InfoSec
 -
@@ -90,6 +91,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## New Releases
 - [Bitcoin Inquisition 27.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v27.0-inq)
+- [bitcoin/bitcoin docker images](https://github.com/willcl-ark/bitcoin-core-docker)
+- More Silent Payment wallets coming out, e.g.:
+  - [blindbitd](https://x.com/setor_bl/status/1787557728015012279)
+  - [silent-pay](https://x.com/bitshala_org/status/1788594877250367605)
+  - [CakeWallet](https://x.com/cakewallet/status/1791500775262437396)
 
 ## Events and Podcasts
 -
@@ -98,7 +104,17 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Privacy
--
+- [TrustWallet forces address reuse](https://x.com/TheBlueMatt/status/1787192996854710772)
 
 ## Miscellaneous
--
+- Samourai:
+  - [Press release](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
+  - [Sparrow Wallet removes Whirlpool integration](https://x.com/SparrowWallet/status/1783513555469242400)
+  - [Phoenix Wallet removed fro US app stores](https://x.com/PhoenixWallet/status/1783878658014249027)
+  - [zkSNACKs is discontinuing its CoinJoin coordinator](https://official.shop/wasabi-wallet-stops-bitcoin-coinjoin-feature/)
+- [FaucAT](https://x.com/theStack/status/1786450748886368441)
+- [did:btc Method Specification](https://microstrategy.github.io/did-btc-spec/)
+- [Griefing Bitcoin Testnet](https://blog.lopp.net/griefing-bitcoin-testnet/)
+- [First mainnet multi-hop asset payment with Taproot Asset channels](https://x.com/roasbeef/status/1788624974728790471)
+- [Bitcoin's Precarious Position](https://bluematt.bitcoin.ninja/2024/05/11/bitcoins-precarious-position/)
+- [SIGHASH_NOINPUT: A History](https://x.com/bergealex4/status/1786933357575606594)
