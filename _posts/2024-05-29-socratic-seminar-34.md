@@ -29,7 +29,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#30000 index TxOrphanage by wtxid, allow entries with same txid](https://bitcoincore.reviews/30000)
 
 ### Optech
 - [Newsletter #299](https://bitcoinops.org/en/newsletters/2024/04/24/), [audio recap](https://bitcoinops.org/en/podcast/2024/04/25/)
