@@ -19,10 +19,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/)
+- [Anonymous usage tokens from curve trees or autct](https://delvingbitcoin.org/t/anonymous-usage-tokens-from-curve-trees-or-autct/)
+- [Silent Payments: Light Client Protocol](https://delvingbitcoin.org/t/silent-payments-light-client-protocol/)
+- [Upgrading Existing Lightning Channels](https://delvingbitcoin.org/t/upgrading-existing-lightning-channels/)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
