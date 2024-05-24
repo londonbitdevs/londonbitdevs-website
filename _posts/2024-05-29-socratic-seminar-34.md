@@ -78,7 +78,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Re enable OP_CAT](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP 352: Silent Payments](https://github.com/bitcoin/bips/pull/1458)
+- [BIP 331: Ancestor Package Relay](https://github.com/bitcoin/bips/pull/1382)
+- [BIP 347: OP\_CAT in Tapscript](https://github.com/bitcoin/bips/pull/1525)
+- [BIP 388: Wallet Policies for Descriptor Wallets](https://github.com/bitcoin/bips/pull/1389)
+- [BIP 387: multi\_a() descriptor](https://github.com/bitcoin/bips/pull/1567)
+- [BIP2: update BIP editors](https://github.com/bitcoin/bips/pull/1573)
 
 ### [BOLT]
 -
