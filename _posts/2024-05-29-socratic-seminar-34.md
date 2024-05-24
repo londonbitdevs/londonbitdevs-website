@@ -55,7 +55,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [p2p: opportunistically accept 1-parent-1-child packages](https://github.com/bitcoin/bitcoin/pull/28970)
+- [wallet: Implement independent BDB parser](https://github.com/bitcoin/bitcoin/pull/26606)
+- [p2p: index TxOrphanage by wtxid, allow entries with same txid](https://github.com/bitcoin/bitcoin/pull/30000)
+- [Simplify network-adjusted time warning logic](https://github.com/bitcoin/bitcoin/pull/29623)
+- [p2p: gives seednode priority over dnsseed if both are provided](https://github.com/bitcoin/bitcoin/pull/28016)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
