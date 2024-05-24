@@ -26,6 +26,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
+- [Penlock, a paper-computer for secret-splitting BIP39 seed phrases](https://groups.google.com/g/bitcoindev/c/Ta2ooUpNIyA)
+- [Proposed BIP text for Miniscript](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
+- [Signing a Bitcoin Transaction with Lamport Signatures (no changes needed)](https://groups.google.com/g/bitcoindev/c/mR53go5gHIk)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -72,7 +75,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
+- [Re enable OP_CAT](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
 
 ### [BIPs](https://github.com/bitcoin/bips)
 -
@@ -81,7 +84,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Inquisition 27.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v27.0-inq)
 
 ## Events and Podcasts
 -
