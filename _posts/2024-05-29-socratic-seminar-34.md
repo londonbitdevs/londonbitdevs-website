@@ -30,9 +30,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Proposed BIP text for Miniscript](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
 - [Signing a Bitcoin Transaction with Lamport Signatures (no changes needed)](https://groups.google.com/g/bitcoindev/c/mR53go5gHIk)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#30000 index TxOrphanage by wtxid, allow entries with same txid](https://bitcoincore.reviews/30000)
@@ -45,16 +42,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #303](https://bitcoinops.org/en/newsletters/2024/05/17/), [audio recap](https://bitcoinops.org/en/podcast/2024/05/21/)
 - [Newsletter #304](https://bitcoinops.org/en/newsletters/2024/05/24/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [Script State from Lamport Signatures](https://bitcoinmagazine.com/technical/script-state-from-lamport-signatures-)
 - [Script Restoration First Draft](https://github.com/rustyrussell/bips/pull/1) (also [video](https://www.youtube.com/watch?v=rSp8918HLnA) and [writeup](https://x.com/reardencode/status/1788074956225651060))
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -64,16 +55,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [p2p: index TxOrphanage by wtxid, allow entries with same txid](https://github.com/bitcoin/bitcoin/pull/30000)
 - [Simplify network-adjusted time warning logic](https://github.com/bitcoin/bitcoin/pull/29623)
 - [p2p: gives seednode priority over dnsseed if both are provided](https://github.com/bitcoin/bitcoin/pull/28016)
-
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [Re enable OP_CAT](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
@@ -86,9 +67,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [BIP 387: multi\_a() descriptor](https://github.com/bitcoin/bips/pull/1567)
 - [BIP2: update BIP editors](https://github.com/bitcoin/bips/pull/1573)
 
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Inquisition 27.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v27.0-inq)
 - [bitcoin/bitcoin docker images](https://github.com/willcl-ark/bitcoin-core-docker)
@@ -97,12 +75,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
   - [silent-pay](https://x.com/bitshala_org/status/1788594877250367605)
   - [CakeWallet](https://x.com/cakewallet/status/1791500775262437396)
 - [Radicle 1.0](https://x.com/radicle/status/1772659708978991605)
-
-## Events and Podcasts
--
-
-## Mining
--
 
 ## Privacy
 - [TrustWallet forces address reuse](https://x.com/TheBlueMatt/status/1787192996854710772)
