@@ -25,7 +25,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Proposing a P2QRH BIP towards a quantum resistant soft fork](https://groups.google.com/g/bitcoindev/c/Aee8xKuIC2s)
+- [BIP for Testnet 4](https://groups.google.com/g/bitcoindev/c/0BYW_diKiVw)
+- [BIP 21 Updates](https://groups.google.com/g/bitcoindev/c/P0D5EZyw1Bk)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
