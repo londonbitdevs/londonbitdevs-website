@@ -70,7 +70,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [Add BIP 353: DNS Payment Instructions](https://github.com/bitcoin/bips/pull/1551)
+- [BIP431: Opt In Topologically Restricted Until Confirmation Transactions For More Robust Fee-bumping](https://github.com/bitcoin/bips/pull/1541)
+- [BIP 337: Compressed Transactions](https://github.com/bitcoin/bips/pull/1556)
+- 
 
 ### [BOLT]
 -
