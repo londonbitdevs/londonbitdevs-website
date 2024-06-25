@@ -51,7 +51,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [Cluster size 2 package rbf](https://github.com/bitcoin/bitcoin/pull/28984)
+- [net\_processing: make any misbehavior trigger immediate discouragement](https://github.com/bitcoin/bitcoin/pull/29575)
+- [consensus: Store transaction nVersion as uint32\_t](https://github.com/bitcoin/bitcoin/pull/29325)
+- [Introduce Mining interface](https://github.com/bitcoin/bitcoin/pull/30200)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
