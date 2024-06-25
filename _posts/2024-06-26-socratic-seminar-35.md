@@ -72,7 +72,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Events and Podcasts
--
+- [bitcoin++ eCash in Berlin, October 10 - 12](https://btcplusplus.dev/conf/berlin24)
 
 ## Mining
 -
