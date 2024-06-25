@@ -85,4 +85,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Mt. Gox to Start Repayments in July](https://bitcoinmagazine.com/business/mt-gox-to-start-bitcoin-repayments-in-july)
