@@ -49,6 +49,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## CVEs and Research
 ### Research
 - [FE’d Up Covenants](https://rubin.io/public/pdfs/fedcov.pdf)
+- [Concurrently Secure Blind Schnorr Signatures](https://eprint.iacr.org/2022/1676), [explainer](1799556806739439938)
+- 
 
 ### InfoSec
 -
@@ -85,15 +87,28 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## New Releases
 - [Bitcoin Core v27.1](https://github.com/bitcoin/bitcoin/releases/tag/v27.1)
+- [Introducing Ark V2: a liquidity-efficient Ark design](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b) ([announcement](https://x.com/brqgoo/status/1799204137554391297))
+- 
 
 ## Events and Podcasts
 - [bitcoin++ eCash in Berlin, October 10 - 12](https://btcplusplus.dev/conf/berlin24)
 
 ## Mining
--
+- [ViaBTC vs AntPool fork](https://x.com/0xB10C/status/1804143652962185531)
+- [stratum.work](https://x.com/boerst/status/1800495051027681671)
+- 
 
 ## Privacy
--
+- [Nostr CoinJoin coordinators popping up](https://x.com/nopara73/status/1797232582003691699)
+
+
+## Ecash
+- [Cashu (or Fedimint) vs Tether](https://stacker.news/items/554143)
+- [Fedimints affected by DNS issues](https://x.com/MutinyWallet/status/1805346636660429021)
 
 ## Miscellaneous
 - [Mt. Gox to Start Repayments in July](https://bitcoinmagazine.com/business/mt-gox-to-start-bitcoin-repayments-in-july)
+- [Integrating silent payments into a unified-balance LN wallet](https://x.com/jxpcsnmz/status/1794238887935783056)
+- [A brief history of blocksize proposals](https://x.com/ajtowns/status/1798185661570441383)
+- [Blind cosigner for arbitrary predicates](https://x.com/salvatoshi/status/1798258631693193632)
+- [12 vs 24 seed words](https://x.com/_weidai/status/1803257402457989213)
