@@ -29,9 +29,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [BIP for Testnet 4](https://groups.google.com/g/bitcoindev/c/0BYW_diKiVw)
 - [BIP 21 Updates](https://groups.google.com/g/bitcoindev/c/P0D5EZyw1Bk)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#30132 Don't wipe indexes again when continuing a prior reindex](https://bitcoincore.reviews/30132)
@@ -43,17 +40,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #307](https://bitcoinops.org/en/newsletters/2024/06/14/), [audio recap](https://bitcoinops.org/en/podcast/2024/06/18/)
 - [Newsletter #308](https://bitcoinops.org/en/newsletters/2024/06/21/), [audio recap](https://bitcoinops.org/en/podcast/2024/06/15/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [FE’d Up Covenants](https://rubin.io/public/pdfs/fedcov.pdf)
 - [Concurrently Secure Blind Schnorr Signatures](https://eprint.iacr.org/2022/1676), [explainer](1799556806739439938)
-- 
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -63,32 +53,17 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [consensus: Store transaction nVersion as uint32\_t](https://github.com/bitcoin/bitcoin/pull/29325)
 - [Introduce Mining interface](https://github.com/bitcoin/bitcoin/pull/30200)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [LDK Node v0.3.0](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.3.0) notably adds support for BOLT12 payments, Anchor channels, and sourcing inbound liquidity via LSPS2 just-in-time channels.
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add BIP 353: DNS Payment Instructions](https://github.com/bitcoin/bips/pull/1551)
 - [BIP431: Opt In Topologically Restricted Until Confirmation Transactions For More Robust Fee-bumping](https://github.com/bitcoin/bips/pull/1541)
 - [BIP 337: Compressed Transactions](https://github.com/bitcoin/bips/pull/1556)
-- 
-
-### [BOLT]
--
 
 ## New Releases
 - [Bitcoin Core v27.1](https://github.com/bitcoin/bitcoin/releases/tag/v27.1)
 - [Introducing Ark V2: a liquidity-efficient Ark design](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b) ([announcement](https://x.com/brqgoo/status/1799204137554391297))
-- 
 
 ## Events and Podcasts
 - [bitcoin++ eCash in Berlin, October 10 - 12](https://btcplusplus.dev/conf/berlin24)
@@ -96,11 +71,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mining
 - [ViaBTC vs AntPool fork](https://x.com/0xB10C/status/1804143652962185531)
 - [stratum.work](https://x.com/boerst/status/1800495051027681671)
-- 
 
 ## Privacy
 - [Nostr CoinJoin coordinators popping up](https://x.com/nopara73/status/1797232582003691699)
-
 
 ## Ecash
 - [Cashu (or Fedimint) vs Tether](https://stacker.news/items/554143)
