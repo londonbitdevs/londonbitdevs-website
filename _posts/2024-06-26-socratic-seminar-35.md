@@ -73,7 +73,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core v27.1](https://github.com/bitcoin/bitcoin/releases/tag/v27.1)
 
 ## Events and Podcasts
 - [bitcoin++ eCash in Berlin, October 10 - 12](https://btcplusplus.dev/conf/berlin24)
