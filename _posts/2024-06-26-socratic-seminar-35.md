@@ -54,7 +54,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [LDK Node v0.3.0](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.3.0) notably adds support for BOLT12 payments, Anchor channels, and sourcing inbound liquidity via LSPS2 just-in-time channels.
 
 ### [Eclair](https://github.com/ACINQ/eclair)
 -
