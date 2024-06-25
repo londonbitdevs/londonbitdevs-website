@@ -19,6 +19,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Is it time to increase the blocksize cap?](https://delvingbitcoin.org/t/is-it-time-to-increase-the-blocksize-cap/941)
+- [DoS Disclosure: LND Onion Bomb](https://delvingbitcoin.org/t/dos-disclosure-lnd-onion-bomb/979)
+- [Who will run the CoinJoin coordinators?](https://delvingbitcoin.org/t/who-will-run-the-coinjoin-coordinators/934)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -43,7 +46,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [FE’d Up Covenants](https://rubin.io/public/pdfs/fedcov.pdf)
 
 ### InfoSec
 -
