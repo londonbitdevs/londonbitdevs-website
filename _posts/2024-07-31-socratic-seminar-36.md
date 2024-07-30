@@ -29,7 +29,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#29775 Testnet4 including PoW difficulty adjustment fix](https://bitcoincore.reviews/29775)
 
 ### Optech
 - [Newsletter #309](https://bitcoinops.org/en/newsletters/2024/06/28/), [audio recap](https://bitcoinops.org/en/podcast/2024/06/29/)
