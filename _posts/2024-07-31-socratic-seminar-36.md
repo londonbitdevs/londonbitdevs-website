@@ -55,7 +55,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### InfoSec
--
+- [July 9th-10th 2024: Wasabi Wallet Security Incident Disclosure](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -88,15 +88,27 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## New Releases
 - [Bitcoin Core v26.2](https://github.com/bitcoin/bitcoin/releases/tag/v26.2)
+- [InvoiceNinja + BTCPayServer integration](https://x.com/BtcpayServer/status/1808501653319926208)
+- [Mempool Accelerator](https://mempool.space/accelerator)
+- [Proton Wallet](https://proton.me/wallet) and [andromeda](https://github.com/ProtonWallet/andromeda)
+- [TwelveCash](https://x.com/StephenDeLorme/status/1814009152819089737)
+- [Cardcoins Additive RBF Batcher](https://github.com/CardCoins/additive-rbf-batcher/) ([announcement](https://x.com/CardCoinsCo/status/1812892282653204891))
+- [satsto.me](https://satsto.me/) ([announcement](https://x.com/TheBlueMatt/status/1812108543891259844))
 
 ## Events and Podcasts
 - [The Bitcoin Development Podcast Episode 4: Discussing Pre-0.21.0 Bitcoin Core Vulnerability Disclosures](https://brink.dev/podcast/4-bitcoin-core-pre-21-disclosures/)
 
 ## Mining
--
+- [Core Scientific and Block collaborate on mining chip](https://x.com/Core_Scientific/status/1811012184043925962)
 
 ## Privacy
 -
 
 ## Miscellaneous
--
+- ["Definitive explanation of my weird Bitcoin transaction"](https://stacker.news/items/600187)
+- [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
+- Decentralized Web Nodes [announcement](https://x.com/csuwildcat/status/1814321949054763510) ([docs](https://developer.tbd.website/docs/web5/learn/decentralized-web-nodes/))
+- [The Nakamoto Project: Understanding Bitcoin Adoption in the United States](https://www.thenakamotoproject.org/report) ([announcement](https://x.com/thetrocro/status/1815491534550417525))
+- [Casa: Secure your bitcoin with a YubiKey](https://blog.casa.io/secure-your-bitcoin-with-yubikey) ([announcement](https://x.com/Nneuman/status/1816862638900658562))
+- Phoenix Wallet adds support for [BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494) and [BIP-353](https://x.com/PhoenixWallet/status/1811442125801705638)
+- ["a bitaxe found a block"](https://x.com/bitentrepreneur/status/1816173826754929125)
