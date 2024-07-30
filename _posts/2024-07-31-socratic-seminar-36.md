@@ -19,6 +19,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Introduction to cluster linearization](https://delvingbitcoin.org/t/introduction-to-cluster-linearization/1032)
+- [Cluster mempool: block building with sub-chunk granularity](https://delvingbitcoin.org/t/cluster-mempool-block-building-with-sub-chunk-granularity/1044)
+- [Hyperion: A discrete time network event simulator for Bitcoin (Core)](https://delvingbitcoin.org/t/hyperion-a-discrete-time-network-event-simulator-for-bitcoin-core/1042)
+- [Bitcoin OP\_CAT Use Cases Series #4: Recursive Covenants](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-4-recursive-covenants/1028)
+- [Empirical Data Analysis of Fee Rate Forecasters for ASAP (next-block) Fee Estimation](https://delvingbitcoin.org/t/empirical-data-analysis-of-fee-rate-forecasters-for-asap-next-block-fee-estimation/1022)
+- [OP\_CAT Use cases series 3 : vaults](https://delvingbitcoin.org/t/op-cat-use-cases-series-3-vaults/1006)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
