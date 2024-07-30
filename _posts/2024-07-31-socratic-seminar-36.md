@@ -81,7 +81,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
+- [bip-0046: Address Scheme for Timelocked Fidelity Bonds](https://github.com/bitcoin/bips/pull/1599)
+- 
 
 ### [BOLT]
 -
