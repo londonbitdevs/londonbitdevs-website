@@ -33,9 +33,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [BIP Draft: "ChillDKG: Distributed Key Generation for FROST"](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ)
 - [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#29775 Testnet4 including PoW difficulty adjustment fix](https://bitcoincore.reviews/29775)
@@ -47,19 +44,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #312](https://bitcoinops.org/en/newsletters/2024/07/19/), [audio recap](https://bitcoinops.org/en/podcast/2024/07/23/)
 - [Newsletter #313](https://bitcoinops.org/en/newsletters/2024/07/26/), [audio recap](https://bitcoinops.org/en/podcast/2024/07/30/)
 
-## Network Data
--
-
-## CVEs and Research
-### Research
--
 
 ### InfoSec
 - [July 9th-10th 2024: Wasabi Wallet Security Incident Disclosure](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-<!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
 - [cluster mempool: cluster linearization algorithm](https://github.com/bitcoin/bitcoin/pull/30126)
 - [prune, rpc: Check undo data when finding pruneheight](https://github.com/bitcoin/bitcoin/pull/29668)
 - [wallet: Migrate legacy wallets to descriptor wallets without requiring BDB](https://github.com/bitcoin/bitcoin/pull/26596)
@@ -67,26 +57,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Fee Estimation: change `estimatesmartfee` default mode to `economical`](https://github.com/bitcoin/bitcoin/pull/30275)
 - [multiprocess: Add IPC wrapper for Mining interface](https://github.com/bitcoin/bitcoin/pull/30510)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
-- [bip-0046: Address Scheme for Timelocked Fidelity Bonds](https://github.com/bitcoin/bips/pull/1599)
-- 
-
-### [BOLT]
--
+- [bip-0046: Address Scheme for Timelocked Fidelity Bonds](https://github.com/bitcoin/bips/pull/1599) 
 
 ## New Releases
 - [Bitcoin Core v26.2](https://github.com/bitcoin/bitcoin/releases/tag/v26.2)
@@ -102,9 +75,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Mining
 - [Core Scientific and Block collaborate on mining chip](https://x.com/Core_Scientific/status/1811012184043925962)
-
-## Privacy
--
 
 ## Miscellaneous
 - ["Definitive explanation of my weird Bitcoin transaction"](https://stacker.news/items/600187)
