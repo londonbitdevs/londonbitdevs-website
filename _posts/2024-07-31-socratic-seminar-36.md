@@ -28,7 +28,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [A "Free" Relay Attack Taking Advantage of The Lack of Full-RBF In Core](https://groups.google.com/g/bitcoindev/c/vfbF7QyVwPE)
+- [Mining pools, stratumv2 and oblivious shares](https://groups.google.com/g/bitcoindev/c/1tDke1a2e_Q)
+- [BIP Draft: "ChillDKG: Distributed Key Generation for FROST"](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ)
+- [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -84,10 +87,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core v26.2](https://github.com/bitcoin/bitcoin/releases/tag/v26.2)
 
 ## Events and Podcasts
--
+- [The Bitcoin Development Podcast Episode 4: Discussing Pre-0.21.0 Bitcoin Core Vulnerability Disclosures](https://brink.dev/podcast/4-bitcoin-core-pre-21-disclosures/)
 
 ## Mining
 -
