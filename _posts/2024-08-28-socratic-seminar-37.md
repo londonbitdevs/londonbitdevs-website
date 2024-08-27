@@ -19,6 +19,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Zawy's Alternating Timestamp Attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062)
+- [Non interactive anti-exfil (airgap compatible)](https://delvingbitcoin.org/t/non-interactive-anti-exfil-airgap-compatible/1081)
+- [Optimistic ZK verification using MATT](https://delvingbitcoin.org/t/optimistic-zk-verification-using-matt/1050)
+- [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
+- [Bolt 12 Trusted Contacts](https://delvingbitcoin.org/t/bolt-12-trusted-contacts/1046)
+- [Onion Messaging DoS Threat Mitigations](https://delvingbitcoin.org/t/onion-messaging-dos-threat-mitigations/1058)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
