@@ -31,9 +31,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Bitcoin Core's migration to the CMake buildsystem](https://groups.google.com/g/bitcoindev/c/hgKkfQWzrTo)
 - [Public disclosure of 2 vulnerabilities affecting Bitcoin Core < v22.0](https://groups.google.com/g/bitcoindev/c/01goVlOCjBA)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#30352 Add PayToAnchor(P2A), OP 1 <0x4e73> as standard output script for spending](https://bitcoincore.reviews/30352)
@@ -43,9 +40,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #315](https://bitcoinops.org/en/newsletters/2024/08/09/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/13/)
 - [Newsletter #316](https://bitcoinops.org/en/newsletters/2024/08/16/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/20/)
 - [Newsletter #317](https://bitcoinops.org/en/newsletters/2024/08/23/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/27/)
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -69,38 +63,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Have miner account for timewarp mitigation, activate on regtest, lower nPowTargetTimespan to 144 and add test](https://github.com/bitcoin/bitcoin/pull/30681)
 - [Move maximum timewarp attack threshold back to 600s from 7200s](https://github.com/bitcoin/bitcoin/pull/30647)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BOLT]
--
-
 ## New Releases
 - [ARK v0.2](https://arkdev.info/blog/ark-release-v0.2/)
 - [Floresta Update: Simplifying Bitcoin Node Integration for Wallets](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
 - [BDK 1.0.0-beta.1](https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-beta.1)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - ["`OP_CAT alone` and the Great Script Restoration enable exactly the same constructions on bitcoin."](https://x.com/salvatoshi/status/1822199971547947234)
