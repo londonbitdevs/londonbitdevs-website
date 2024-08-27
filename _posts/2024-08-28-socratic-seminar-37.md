@@ -49,10 +49,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [New multiplication algorithm for Circle STARK](https://hackmd.io/@l2iterative/Byg8h1MsC)
+- [Engineering a backdoored bitcoin wallet](https://www.usenix.org/system/files/woot24-scott.pdf)
 
 ### InfoSec
--
+- [Dark Skippy](https://darkskippy.com/) (and some [related discussion](https://x.com/TheBlueMatt/status/1820533237661544863))
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -67,7 +68,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [validation: assumeutxo params mainnet](https://github.com/bitcoin/bitcoin/pull/28553)
 - [Have miner account for timewarp mitigation, activate on regtest, lower nPowTargetTimespan to 144 and add test](https://github.com/bitcoin/bitcoin/pull/30681)
 - [Move maximum timewarp attack threshold back to 600s from 7200s](https://github.com/bitcoin/bitcoin/pull/30647)
-- 
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -89,7 +89,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [ARK v0.2](https://arkdev.info/blog/ark-release-v0.2/)
+- [Floresta Update: Simplifying Bitcoin Node Integration for Wallets](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
+- [BDK 1.0.0-beta.1](https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-beta.1)
 
 ## Events and Podcasts
 -
@@ -101,4 +103,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- ["`OP_CAT alone` and the Great Script Restoration enable exactly the same constructions on bitcoin."](https://x.com/salvatoshi/status/1822199971547947234)
+- ["Prevent the CATastrophe"](https://gist.github.com/RobinLinus/fdee133af13948b0e617f9ef4f8b8752)
