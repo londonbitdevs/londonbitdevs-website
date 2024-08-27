@@ -50,7 +50,17 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [Don't empty dbcache on prune flushes: >30% faster IBD](https://github.com/bitcoin/bitcoin/pull/28280)
+- [cluster mempool: cluster linearization algorithm](https://github.com/bitcoin/bitcoin/pull/30126)
+- [Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
+- [policy: Add PayToAnchor(P2A), `OP_1 <0x4e73>` as a standard output script for spending](https://github.com/bitcoin/bitcoin/pull/30352)
+- [blockstorage: XOR blocksdir \*.dat files](https://github.com/bitcoin/bitcoin/pull/28052)
+- [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
+- [assumeutxo: Drop block height from metadata](https://github.com/bitcoin/bitcoin/pull/30598)
+- [validation: assumeutxo params mainnet](https://github.com/bitcoin/bitcoin/pull/28553)
+- [Have miner account for timewarp mitigation, activate on regtest, lower nPowTargetTimespan to 144 and add test](https://github.com/bitcoin/bitcoin/pull/30681)
+- [Move maximum timewarp attack threshold back to 600s from 7200s](https://github.com/bitcoin/bitcoin/pull/30647)
+- 
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
