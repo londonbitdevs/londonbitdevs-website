@@ -28,7 +28,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Bitcoin Core's migration to the CMake buildsystem](https://groups.google.com/g/bitcoindev/c/hgKkfQWzrTo)
+- [Public disclosure of 2 vulnerabilities affecting Bitcoin Core < v22.0](https://groups.google.com/g/bitcoindev/c/01goVlOCjBA)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
