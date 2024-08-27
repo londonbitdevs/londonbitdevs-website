@@ -32,7 +32,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
   -
 
 ### Optech
-- <!--- TODO: [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/) -->
+- [Newsletter #314](https://bitcoinops.org/en/newsletters/2024/08/02/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/06/)
+- [Newsletter #315](https://bitcoinops.org/en/newsletters/2024/08/09/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/13/)
+- [Newsletter #316](https://bitcoinops.org/en/newsletters/2024/08/16/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/20/)
+- [Newsletter #317](https://bitcoinops.org/en/newsletters/2024/08/23/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/27/)
 
 ## Network Data
 -
