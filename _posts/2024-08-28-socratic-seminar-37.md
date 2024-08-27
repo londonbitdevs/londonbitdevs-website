@@ -29,7 +29,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#30352 Add PayToAnchor(P2A), OP 1 <0x4e73> as standard output script for spending](https://bitcoincore.reviews/30352)
 
 ### Optech
 - [Newsletter #314](https://bitcoinops.org/en/newsletters/2024/08/02/), [audio recap](https://bitcoinops.org/en/podcast/2024/08/06/)
