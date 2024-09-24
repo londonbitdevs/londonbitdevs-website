@@ -19,6 +19,14 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [SuperScalar: Laddered Timeout-Tree-Structured Decker-Wattenhofer Factories](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
+- [PPLNS with job declaration](https://delvingbitcoin.org/t/pplns-with-job-declaration/1099)
+- [Hardcoded seeds, DNS seeds and Darknet nodes](https://delvingbitcoin.org/t/hardcoded-seeds-dns-seeds-and-darknet-nodes/1123/7)
+- [Proving UTXO set inclusion in zero-knowledge](https://delvingbitcoin.org/t/proving-utxo-set-inclusion-in-zero-knowledge/1142)
+- [Lava Loans: Trust-minimized, Bitcoin-Secured Loans](https://delvingbitcoin.org/t/lava-loans-trust-minimized-bitcoin-secured-loans/1112)
+- [Mutation-core: A mutation testing tool for Bitcoin Core](https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/1119)
+- [Hybrid Jamming Mitigation: Results and Updates](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147)
+- [Privately sending payments while offline with BOLT12](https://delvingbitcoin.org/t/privately-sending-payments-while-offline-with-bolt12/1134)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
