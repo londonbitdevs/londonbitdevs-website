@@ -34,9 +34,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Public disclosure of 1 vulnerability affecting Bitcoin Core <24.0.1](https://groups.google.com/g/bitcoindev/c/YH-kFMxA_jY)
 - [Proposal to upgrade the transaction relay protocol to a new version](https://groups.google.com/g/bitcoindev/c/nWUcXBQbLGU)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [Testing Bitcoin Core 28.0 Release Candidates](https://bitcoincore.reviews/v28-rc-testing)
@@ -46,9 +43,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #319](https://bitcoinops.org/en/newsletters/2024/09/06/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/10/)
 - [Newsletter #320](https://bitcoinops.org/en/newsletters/2024/09/13/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/17/)
 - [Newsletter #321](https://bitcoinops.org/en/newsletters/2024/09/20/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/24/)
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -71,39 +65,14 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Drop -dbcache limit](https://github.com/bitcoin/bitcoin/pull/28358)
 - [multiprocess: Add -ipcbind option to bitcoin-node](https://github.com/bitcoin/bitcoin/pull/30509)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add a PSBT per-output field for BIP 353 DNSSEC Proofs](https://github.com/bitcoin/bips/pull/1657)
-
-### [BOLT]
--
 
 ## New Releases
 - [Sparrow Wallet v2.0.0](https://github.com/sparrowwallet/sparrow/releases)
 - [Ashigaru](https://ashigaru.rs/)
 
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
-
 ## Miscellaneous
 - [Fedimint's second generation lightning integration](https://x.com/joschisanbtc/status/1833778662027432136)
 - [First 0-fee lightning commitment transaction on testnet](https://x.com/realtbast/status/1834213774674247987)
-- 
+
