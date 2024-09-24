@@ -71,7 +71,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [Add a PSBT per-output field for BIP 353 DNSSEC Proofs](https://github.com/bitcoin/bips/pull/1657)
 
 ### [BOLT]
 -
