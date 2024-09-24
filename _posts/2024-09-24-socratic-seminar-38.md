@@ -52,10 +52,14 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Shielded CSV: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
+- [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+- [Introducing NOIST: a non-interactive, single-round t-of-n threshold signing protocol](https://blog.brollup.org/introducing-noist-a-non-interactive-single-round-t-of-n-threshold-signing-protocol-51225fe513fa)
+- [Analysis of Bitcoind Policy Estimator Effectiveness for Long-Term Fee Estimation](https://hackmd.io/@VzfUhtefQky1-i2_EY1HEQ/SyqBhQ8FR)
+- [Block Template Similarities between Mining Pools](https://b10c.me/observations/12-template-similarity/)
 
 ### InfoSec
--
+- [EUCLEAK](https://ninjalab.io/eucleak/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -87,7 +91,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Sparrow Wallet v2.0.0](https://github.com/sparrowwallet/sparrow/releases)
+- [Ashigaru](https://ashigaru.rs/)
 
 ## Events and Podcasts
 -
@@ -99,4 +104,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Fedimint's second generation lightning integration](https://x.com/joschisanbtc/status/1833778662027432136)
+- [First 0-fee lightning commitment transaction on testnet](https://x.com/realtbast/status/1834213774674247987)
+- 
