@@ -29,10 +29,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - 
 
 ### Optech
-- <!--- TODO: [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/) -->
+- [Newsletter #318](https://bitcoinops.org/en/newsletters/2024/08/30/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/03/)
+- [Newsletter #319](https://bitcoinops.org/en/newsletters/2024/09/06/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/10/)
+- [Newsletter #320](https://bitcoinops.org/en/newsletters/2024/09/13/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/17/)
+- [Newsletter #321](https://bitcoinops.org/en/newsletters/2024/09/20/), [audio recap](https://bitcoinops.org/en/podcast/2024/09/24/)
 
 ## Network Data
 -
