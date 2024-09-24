@@ -30,7 +30,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Bitcoin Core 28.0 Release Candidate 2 Available](https://groups.google.com/g/bitcoindev/c/9MNF8dFkYLM)
+- [Public disclosure of 1 vulnerability affecting Bitcoin Core <24.0.1](https://groups.google.com/g/bitcoindev/c/YH-kFMxA_jY)
+- [Proposal to upgrade the transaction relay protocol to a new version](https://groups.google.com/g/bitcoindev/c/nWUcXBQbLGU)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
