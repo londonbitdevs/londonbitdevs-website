@@ -50,7 +50,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [build: Introduce CMake-based build system](https://github.com/bitcoin/bitcoin/pull/30454)
+- [descriptors: Be able to specify change and receiving in a single descriptor string](https://github.com/bitcoin/bitcoin/pull/22838)
+- [cluster mempool: optimized candidate search](https://github.com/bitcoin/bitcoin/pull/30286)
+- [assumeutxo: Add dumptxoutset height param, remove shell scripts](https://github.com/bitcoin/bitcoin/pull/29553)
+- [Drop -dbcache limit](https://github.com/bitcoin/bitcoin/pull/28358)
+- [multiprocess: Add -ipcbind option to bitcoin-node](https://github.com/bitcoin/bitcoin/pull/30509)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
