@@ -26,7 +26,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [BIP: DLEQ](https://groups.google.com/g/bitcoindev/c/MezoKV5md7s)
+- [BIP: Sending Silent Payments in PSBTs](https://groups.google.com/g/bitcoindev/c/5G5wzqUXyk4)
+- [Public disclosure of three vulnerabilities affecting Bitcoin Core <v25.0](https://groups.google.com/g/bitcoindev/c/WeSDeV8YOSA)
+- [Adaptor generalisation](https://groups.google.com/g/bitcoindev/c/sByVDcSWeLo)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -95,4 +98,4 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [The Bitcoin Core Kernel](https://thecharlatan.ch/Kernel/)
