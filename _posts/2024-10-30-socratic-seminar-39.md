@@ -32,9 +32,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Public disclosure of three vulnerabilities affecting Bitcoin Core <v25.0](https://groups.google.com/g/bitcoindev/c/WeSDeV8YOSA)
 - [Adaptor generalisation](https://groups.google.com/g/bitcoindev/c/sByVDcSWeLo)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#30793 add getorphantxs](https://bitcoincore.reviews/30793)
@@ -50,44 +47,23 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [testnet4 spam](https://x.com/murchandamus/status/1848408001373180193)
 - [P2TR keypath usage increasing](https://x.com/murchandamus/status/1850966658451452296)
 
-
 ## CVEs and Research
 ### Research
 - [Lightning Network Economics: Topology](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03872)
 - [Babylon & The Taproot Success Story](https://blog.bitmex.com/babylon-the-taproot-success-story/)
 - [Slow Block Validation Attacks](https://blog.lopp.net/slow-block-validation-attacks/)
 
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-<!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
 - [net: Replace libnatpmp with built-in PCP+NATPMP implementation](https://github.com/bitcoin/bitcoin/pull/30043)
 - [multiprocess: Add IPC wrapper for Mining interface](https://github.com/bitcoin/bitcoin/pull/30510)
 - [Drop miniupnp dependency](https://github.com/bitcoin/bitcoin/pull/31130)
 - [rpc: add getorphantxs](https://github.com/bitcoin/bitcoin/pull/30793)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application](https://github.com/bitcoin/bips/pull/1600)
   - [Revert "BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application"](https://github.com/bitcoin/bips/pull/1674)
   - [BIP-85: Add language code & dice app, TPRV guidance, warn on BIP-32 divergence, grammar & clarity](https://github.com/bitcoin/bips/pull/1679)
-
-### [BOLT]
--
 
 ## New Releases
 - [Bitcoin Core 28.0](https://github.com/bitcoin/bitcoin/releases/tag/v28.0)
@@ -95,15 +71,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Spark](https://www.spark.info/)
 - [Dana wallet](https://github.com/cygnet3/danawallet)
 
-## Events and Podcasts
--
-
 ## Mining
 - [DATUM protocol announced](https://ocean.xyz/docs/datum)
-- 
-
-## Privacy
--
 
 ## Miscellaneous
 - [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
