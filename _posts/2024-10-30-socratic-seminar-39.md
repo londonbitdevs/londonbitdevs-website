@@ -51,7 +51,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [net: Replace libnatpmp with built-in PCP+NATPMP implementation](https://github.com/bitcoin/bitcoin/pull/30043)
+- [multiprocess: Add IPC wrapper for Mining interface](https://github.com/bitcoin/bitcoin/pull/30510)
+- [Drop miniupnp dependency](https://github.com/bitcoin/bitcoin/pull/31130)
+- 
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -73,7 +76,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 28.0](https://github.com/bitcoin/bitcoin/releases/tag/v28.0)
+- 
 
 ## Events and Podcasts
 -
