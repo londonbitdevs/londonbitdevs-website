@@ -23,6 +23,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Libbitcoin for Core people](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222/3)
 - [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
 - [Bitcoin PIPEs: Covenants on Bitcoin Without Soft Fork](https://delvingbitcoin.org/t/bitcoin-pipes-covenants-on-bitcoin-without-soft-fork/1195)
+- [Updates to the Gossip 1.75 proposal post LN summit meeting](https://delvingbitcoin.org/t/updates-to-the-gossip-1-75-proposal-post-ln-summit-meeting/1202)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -46,11 +47,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #326](https://bitcoinops.org/en/newsletters/2024/10/25/), [audio recap](https://bitcoinops.org/en/podcast/2024/10/29/)
 
 ## Network Data
--
+- [testnet4 spam](https://x.com/murchandamus/status/1848408001373180193)
+- [P2TR keypath usage increasing](https://x.com/murchandamus/status/1850966658451452296)
+
 
 ## CVEs and Research
 ### Research
--
+- [Lightning Network Economics: Topology](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03872)
+- [Babylon & The Taproot Success Story](https://blog.bitmex.com/babylon-the-taproot-success-story/)
+- [Slow Block Validation Attacks](https://blog.lopp.net/slow-block-validation-attacks/)
 
 ### InfoSec
 -
@@ -61,7 +66,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [net: Replace libnatpmp with built-in PCP+NATPMP implementation](https://github.com/bitcoin/bitcoin/pull/30043)
 - [multiprocess: Add IPC wrapper for Mining interface](https://github.com/bitcoin/bitcoin/pull/30510)
 - [Drop miniupnp dependency](https://github.com/bitcoin/bitcoin/pull/31130)
-- 
+- [rpc: add getorphantxs](https://github.com/bitcoin/bitcoin/pull/30793)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -86,16 +91,25 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## New Releases
 - [Bitcoin Core 28.0](https://github.com/bitcoin/bitcoin/releases/tag/v28.0)
-- 
+- [Bitcoin Inquisition 28.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v28.0-inq)
+- [Spark](https://www.spark.info/)
+- [Dana wallet](https://github.com/cygnet3/danawallet)
 
 ## Events and Podcasts
 -
 
 ## Mining
--
+- [DATUM protocol announced](https://ocean.xyz/docs/datum)
+- 
 
 ## Privacy
 -
 
 ## Miscellaneous
+- [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 - [The Bitcoin Core Kernel](https://thecharlatan.ch/Kernel/)
+- [Add module "musig" that implements MuSig2 multi-signatures (BIP 327)](https://github.com/bitcoin-core/secp256k1/pull/1479)
+- [Feature Request: Broadcast Pool](https://github.com/bitcoin/bitcoin/issues/30471)
+- [libbitcoin fast sync](https://x.com/evoskuil/status/1847673128073187536)
+- [On the history of cgminer](https://x.com/ckpooldev/status/1848949988178726993)
+- [Coinbase supports sending to bech32m addresses](https://x.com/CoinbaseAssets/status/1843712761391399318)
