@@ -70,7 +70,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application](https://github.com/bitcoin/bips/pull/1600)
+  - [Revert "BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application"](https://github.com/bitcoin/bips/pull/1674)
+  - [BIP-85: Add language code & dice app, TPRV guidance, warn on BIP-32 divergence, grammar & clarity](https://github.com/bitcoin/bips/pull/1679)
 
 ### [BOLT]
 -
