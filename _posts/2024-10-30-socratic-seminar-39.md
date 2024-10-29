@@ -19,6 +19,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [CVE-2024-38365 public disclosure (btcd \`FindAndDelete\` bug)](https://delvingbitcoin.org/t/cve-2024-38365-public-disclosure-btcd-findanddelete-bug/1184)
+- [Libbitcoin for Core people](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222/3)
+- [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
+- [Bitcoin PIPEs: Covenants on Bitcoin Without Soft Fork](https://delvingbitcoin.org/t/bitcoin-pipes-covenants-on-bitcoin-without-soft-fork/1195)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
