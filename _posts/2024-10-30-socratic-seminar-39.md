@@ -29,7 +29,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#30793 add getorphantxs](https://bitcoincore.reviews/30793)
 
 ### Optech
 - [Newsletter #322](https://bitcoinops.org/en/newsletters/2024/09/27/), [audio recap](https://bitcoinops.org/en/podcast/2024/10/01/)
