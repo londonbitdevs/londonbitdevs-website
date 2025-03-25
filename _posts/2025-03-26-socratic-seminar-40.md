@@ -19,6 +19,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [CTV+CSFS: Can we reach consensus on a first step towards covenants?](https://delvingbitcoin.org/t/ctv-csfs-can-we-reach-consensus-on-a-first-step-towards-covenants/1509)
+- [An Exposition of Pathfinding Strategies Within Lightning Network Clients](https://delvingbitcoin.org/t/an-exposition-of-pathfinding-strategies-within-lightning-network-clients/1500)
+- [LND's Deadline-Aware Budget Sweeper](https://delvingbitcoin.org/t/lnds-deadline-aware-budget-sweeper/1512)
+- [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
+- [OP\_CHECKCONTRACTVERIFY and its amount semantic](https://delvingbitcoin.org/t/op-checkcontractverify-and-its-amount-semantic/1527)
+- [Disclosure: LND Excessive Failback Exploit](https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493)
+- [The Ark case for CTV](https://delvingbitcoin.org/t/the-ark-case-for-ctv/1528)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
