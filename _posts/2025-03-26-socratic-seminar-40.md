@@ -29,7 +29,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Against Allowing Quantum Recovery of Bitcoin](https://groups.google.com/g/bitcoindev/c/uUK6py0Yjq0)
+- [Unbreaking testnet4](https://groups.google.com/g/bitcoindev/c/iVLHJ1HWhoU)
+- [Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
+- ["Recursive covenant" with CTV and CSFS](https://groups.google.com/g/bitcoindev/c/Tu7mr419jWQ)
+- [P2QRH / BIP-360 Update](https://groups.google.com/g/bitcoindev/c/oQKezDOc4us)
+- [Proposal for Quantum-Resistant Address Migration Protocol (QRAMP) BIP](https://groups.google.com/g/bitcoindev/c/8PM6iZCeDMc)
+- [Update on the Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/rf3QOlzg230)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
