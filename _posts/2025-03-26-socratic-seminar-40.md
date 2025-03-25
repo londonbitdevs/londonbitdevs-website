@@ -29,7 +29,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [Testing Bitcoin Core 29.0 Release Candidates](https://bitcoincore.reviews/v29-rc-testing)
+  - [#31405 Stricter internal handling of invalid blocks](https://bitcoincore.reviews/31405)
 
 ### Optech
 - <!--- TODO: [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/) -->
