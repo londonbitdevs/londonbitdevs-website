@@ -33,7 +33,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
   - [#31405 Stricter internal handling of invalid blocks](https://bitcoincore.reviews/31405)
 
 ### Optech
-- <!--- TODO: [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/02/) -->
+- [Newsletter #343](https://bitcoinops.org/en/newsletters/2025/02/28/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/04/)
+- [Newsletter #344](https://bitcoinops.org/en/newsletters/2025/03/07/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/11/)
+- [Newsletter #345](https://bitcoinops.org/en/newsletters/2025/03/14/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/18/)
+- [Newsletter #346](https://bitcoinops.org/en/newsletters/2025/03/21/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/25/)
 
 ## Network Data
 -
