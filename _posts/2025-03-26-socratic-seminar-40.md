@@ -64,7 +64,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [Add waitNext() to BlockTemplate interface](https://github.com/bitcoin/bitcoin/pull/31283)
+- [wallet, rpc: deprecate settxfee and paytxfee](https://github.com/bitcoin/bitcoin/pull/31278)
+- [guix: Notarize MacOS app bundle and codesign all MacOS and Windows binaries](https://github.com/bitcoin/bitcoin/pull/31407)
+- [consensus: Remove checkpoints (take 2)](https://github.com/bitcoin/bitcoin/pull/31649)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -80,7 +83,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP159 updates](https://github.com/bitcoin/bips/pull/1768)
+- [BIP374: Add message to rand computation](https://github.com/bitcoin/bips/pull/1758)
+- [BIP3: Move to Proposed](https://github.com/bitcoin/bips/pull/1794)
 
 ### [BOLT]
 -
