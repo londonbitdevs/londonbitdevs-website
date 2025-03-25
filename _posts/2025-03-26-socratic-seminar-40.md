@@ -26,6 +26,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [OP\_CHECKCONTRACTVERIFY and its amount semantic](https://delvingbitcoin.org/t/op-checkcontractverify-and-its-amount-semantic/1527)
 - [Disclosure: LND Excessive Failback Exploit](https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493)
 - [The Ark case for CTV](https://delvingbitcoin.org/t/the-ark-case-for-ctv/1528)
+- [Antoine Poinsot on Bitcoin Core’s Priorities](https://delvingbitcoin.org/t/antoine-poinsot-on-bitcoin-cores-priorities/1470)
+- [Bitcoin Forking Guide](https://delvingbitcoin.org/t/bitcoin-forking-guide/1451)
+- [Best-(Worst-)Case MEVil Response](https://delvingbitcoin.org/t/best-worst-case-mevil-response/1465)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
@@ -56,7 +59,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Invalid mining jobs by AntPool & friends during forks](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
+- 
 
 ### InfoSec
 -
@@ -91,7 +95,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 29.0rc2](https://github.com/bitcoin/bitcoin/releases/tag/v29.0rc2)
 
 ## Events and Podcasts
 -
@@ -103,4 +107,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)
+- [DEMAND pool launches first full Stratum V2 mining pool](https://www.dmnd.work/index.html)
+- [Try Ark on signet](https://blog.second.tech/try-ark-on-signet/)
