@@ -40,9 +40,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Proposal for Quantum-Resistant Address Migration Protocol (QRAMP) BIP](https://groups.google.com/g/bitcoindev/c/8PM6iZCeDMc)
 - [Update on the Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/rf3QOlzg230)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [Testing Bitcoin Core 29.0 Release Candidates](https://bitcoincore.reviews/v29-rc-testing)
@@ -54,16 +51,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #345](https://bitcoinops.org/en/newsletters/2025/03/14/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/18/)
 - [Newsletter #346](https://bitcoinops.org/en/newsletters/2025/03/21/), [audio recap](https://bitcoinops.org/en/podcast/2025/03/25/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [Invalid mining jobs by AntPool & friends during forks](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
-- 
 
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -73,38 +64,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [guix: Notarize MacOS app bundle and codesign all MacOS and Windows binaries](https://github.com/bitcoin/bitcoin/pull/31407)
 - [consensus: Remove checkpoints (take 2)](https://github.com/bitcoin/bitcoin/pull/31649)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP159 updates](https://github.com/bitcoin/bips/pull/1768)
 - [BIP374: Add message to rand computation](https://github.com/bitcoin/bips/pull/1758)
 - [BIP3: Move to Proposed](https://github.com/bitcoin/bips/pull/1794)
 
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core 29.0rc2](https://github.com/bitcoin/bitcoin/releases/tag/v29.0rc2)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)
