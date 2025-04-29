@@ -76,7 +76,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP 321: URI Scheme (Replace BIP 21 with a new BIP containing information about more modern usage of it)](https://github.com/bitcoin/bips/pull/1555)
+- 
 
 ### [BOLT]
 -
