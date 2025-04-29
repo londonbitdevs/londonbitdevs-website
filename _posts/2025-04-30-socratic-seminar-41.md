@@ -22,7 +22,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Consensus Cleanup BIP draft](https://groups.google.com/g/bitcoindev/c/0tSvml90Qcw)
+- [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU)
+- [SwiftSync - smarter synchronization with hints](https://groups.google.com/g/bitcoindev/c/FpSWUxItXQs)
+- [Relax OP\_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
+- [DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures](https://groups.google.com/g/bitcoindev/c/eothFkxAvK0)
+- [Public disclosure of one vulnerability affecting Bitcoin Core <29.0](https://groups.google.com/g/bitcoindev/c/v2mwcWtgfxM)
+
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
