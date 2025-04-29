@@ -19,6 +19,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [SwiftSync -- Speeding up IBD with pre-generated hints (PoC)](https://delvingbitcoin.org/t/swiftsync-speeding-up-ibd-with-pre-generated-hints-poc/1562)
+- [How CTV+CSFS improves BitVM bridges](https://delvingbitcoin.org/t/how-ctv-csfs-improves-bitvm-bridges/1591)
+- [A simple backup scheme for wallet accounts](https://delvingbitcoin.org/t/a-simple-backup-scheme-for-wallet-accounts/1607)
+- [Evolving the Ark protocol using CTV and CSFS](https://delvingbitcoin.org/t/evolving-the-ark-protocol-using-ctv-and-csfs/1602)
+- [Cluster mempool partitioning attacks](https://delvingbitcoin.org/t/cluster-mempool-partitioning-attacks/1548/6)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
