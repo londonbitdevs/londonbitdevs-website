@@ -40,7 +40,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#31689 Benchmark Chainstate::ConnectBlock duration](https://bitcoincore.reviews/31689)
+  - [#31664 Add Fee rate Forecaster Manager](https://bitcoincore.reviews/31664)
+  - [#29532 Refactor BnB tests](https://bitcoincore.reviews/29532)
+  - [#31444 Cluster mempool: add txgraph diagrams/mining/eviction](https://bitcoincore.reviews/31444)
 
 ### Optech
 - [Newsletter #347](https://bitcoinops.org/en/newsletters/2025/03/28/), [audio recap](https://bitcoinops.org/en/podcast/2025/04/01/)
