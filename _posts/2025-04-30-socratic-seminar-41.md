@@ -34,10 +34,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures](https://groups.google.com/g/bitcoindev/c/eothFkxAvK0)
 - [Public disclosure of one vulnerability affecting Bitcoin Core <29.0](https://groups.google.com/g/bitcoindev/c/v2mwcWtgfxM)
 
-
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#31689 Benchmark Chainstate::ConnectBlock duration](https://bitcoincore.reviews/31689)
@@ -52,16 +48,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #350](https://bitcoinops.org/en/newsletters/2025/04/18/), [audio recap](https://bitcoinops.org/en/podcast/2025/04/22/)
 - [Newsletter #351](https://bitcoinops.org/en/newsletters/2025/04/25/), [audio recap](https://bitcoinops.org/en/podcast/2025/04/29/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [CISA Research Paper](https://hrf.org/latest/cisa-research-paper/)
 - [Bitcoin Mining Centralization in 2025](https://b10c.me/blog/015-bitcoin-mining-centralization/)
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -71,25 +61,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [wallet: Disable creating and loading legacy wallets](https://github.com/bitcoin/bitcoin/pull/31250)
 - [psbt: MuSig2 Fields](https://github.com/bitcoin/bitcoin/pull/31247)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 321: URI Scheme (Replace BIP 21 with a new BIP containing information about more modern usage of it)](https://github.com/bitcoin/bips/pull/1555)
-- 
-
-### [BOLT]
--
 
 ## New Releases
 - [Bitcoin Core 29.0 released](https://bitcoincore.org/en/2025/04/14/release-29.0/)
@@ -100,12 +73,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Events and Podcasts
 - [OP_NEXT 2025 Recordings](https://www.youtube.com/playlist?list=PLDoWOGC_LqgMVew7-eKPCUX9TuRF6xy7s)
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Taplocks: Verifiable but unspendable tapleafs](https://x.com/rot13maxi/status/1909252898170564621)
