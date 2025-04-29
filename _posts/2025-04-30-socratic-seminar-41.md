@@ -57,7 +57,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [CISA Research Paper](https://hrf.org/latest/cisa-research-paper/)
+- [Bitcoin Mining Centralization in 2025](https://b10c.me/blog/015-bitcoin-mining-centralization/)
 
 ### InfoSec
 -
@@ -91,10 +92,14 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core 29.0 released](https://bitcoincore.org/en/2025/04/14/release-29.0/)
+- [Fuzzamoto: Holistic Fuzzing for Bitcoin Protocol Implementations](https://github.com/dergoegge/fuzzamoto)
+- [Announcing Versioned Storage Service (VSS)](https://lightningdevkit.org/blog/announcing-vss/)
+- [Hydrus](https://github.com/aftermath2/hydrus)
+- [Explora - a visual tool to follow a chain of transactions](https://github.com/lontivero/explora)
 
 ## Events and Podcasts
--
+- [OP_NEXT 2025 Recordings](https://www.youtube.com/playlist?list=PLDoWOGC_LqgMVew7-eKPCUX9TuRF6xy7s)
 
 ## Mining
 -
@@ -103,4 +108,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Taplocks: Verifiable but unspendable tapleafs](https://x.com/rot13maxi/status/1909252898170564621)
+- [Poisson Blocks DoS vector in Bitcoin](https://x.com/PortlandHODL/status/1912935936851419424)
+- [Mempool Taproot Tree visualization](https://x.com/mempool/status/1911389181101679080)
