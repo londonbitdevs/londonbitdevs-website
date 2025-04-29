@@ -57,7 +57,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [cluster mempool: introduce TxGraph](https://github.com/bitcoin/bitcoin/pull/31363)
+- [build: Switch to Qt 6](https://github.com/bitcoin/bitcoin/pull/30997)
+- [wallet: Disable creating and loading legacy wallets](https://github.com/bitcoin/bitcoin/pull/31250)
+- [psbt: MuSig2 Fields](https://github.com/bitcoin/bitcoin/pull/31247)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
