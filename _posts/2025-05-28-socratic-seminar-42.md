@@ -19,6 +19,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
+- [Withdrawing OP\_VAULT (BIP-345)](https://delvingbitcoin.org/t/withdrawing-op-vault-bip-345/1670)
+- [Addressing community concerns and objections regarding my recent proposal to relax Bitcoin Core's standardness limits on OP\_RETURN outputs](https://delvingbitcoin.org/t/addressing-community-concerns-and-objections-regarding-my-recent-proposal-to-relax-bitcoin-cores-standardness-limits-on-op-return-outputs/1697)
+- [On the possibility of evil covenants and implications for soft fork proposals](https://delvingbitcoin.org/t/on-the-possibility-of-evil-covenants-and-implications-for-soft-fork-proposals/1703)
+- [Latency and Privacy in Lightning](https://delvingbitcoin.org/t/latency-and-privacy-in-lightning/1723)
+- [Mitigating Channel Depletion in the Lightning Network: A Survey of Potential Solutions](https://delvingbitcoin.org/t/mitigating-channel-depletion-in-the-lightning-network-a-survey-of-potential-solutions/1640)
+- [Bitcointap: an strace-like tool for bitcoin ebpf USDT tracepoints](https://delvingbitcoin.org/t/bitcointap-an-strace-like-tool-for-bitcoin-ebpf-usdt-tracepoints/1694)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
