@@ -62,8 +62,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-<!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [multiprocess: Add bitcoin wrapper executable](https://github.com/bitcoin/bitcoin/pull/31375)
+- [cluster mempool: add txgraph diagrams/mining/eviction](https://github.com/bitcoin/bitcoin/pull/31444)
+- [Remove the legacy wallet and BDB dependency](https://github.com/bitcoin/bitcoin/pull/28710)
+- [miner: timelock the coinbase to the mined block's height](https://github.com/bitcoin/bitcoin/pull/32155)
+- [rpc: Undeprecate rpcuser/rpcpassword, store all credentials hashed in memory](https://github.com/bitcoin/bitcoin/pull/32423)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
