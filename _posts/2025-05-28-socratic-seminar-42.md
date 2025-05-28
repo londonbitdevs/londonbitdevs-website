@@ -35,9 +35,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Censorship Resistant Transaction Relay - Taking out the garbage(man)](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k)
 
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#31981 Add checkBlock() to Mining interface](https://bitcoincore.reviews/31981)
@@ -49,9 +46,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #353](https://bitcoinops.org/en/newsletters/2025/05/09/), [audio recap](https://bitcoinops.org/en/podcast/2025/05/13/)
 - [Newsletter #354](https://bitcoinops.org/en/newsletters/2025/05/16/), [audio recap](https://bitcoinops.org/en/podcast/2025/05/20/)
 - [Newsletter #355](https://bitcoinops.org/en/newsletters/2025/05/23/), [audio recap](https://bitcoinops.org/en/podcast/2025/05/27/)
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -69,41 +63,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [rpc: Undeprecate rpcuser/rpcpassword, store all credentials hashed in memory](https://github.com/bitcoin/bitcoin/pull/32423)
 - [policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 54: Consensus Cleanup](https://github.com/bitcoin/bips/pull/1800)
 - [BIP 53: Disallow 64-byte transactions](https://github.com/bitcoin/bips/pull/1760)
 - [BIP 443: OP\_CHECKCONTRACTVERIFY](https://github.com/bitcoin/bips/pull/1793)
 - [BIP-345: withdraw](https://github.com/bitcoin/bips/pull/1848)
 
-### [BOLT]
--
-
 ## New Releases
 - [tx-pigeon](https://github.com/stutxo/tx-pigeon)
 - [Simplicity merged in elements 23.3](https://github.com/ElementsProject/elements/releases/tag/elements-23.3.0)
-- 
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Fix improper parsing of transaction with some nVersion](https://github.com/MetacoSA/NBitcoin/pull/1269)
