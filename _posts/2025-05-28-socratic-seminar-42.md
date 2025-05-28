@@ -29,7 +29,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#31981 Add checkBlock() to Mining interface](https://bitcoincore.reviews/31981)
+  - [#31375 Add bitcoin wrapper executable](https://bitcoincore.reviews/31375)
+  - [#32317 Separate UTXO set access from validation functions](https://bitcoincore.reviews/32317)
 
 ### Optech
 - [Newsletter #352](https://bitcoinops.org/en/newsletters/2025/05/02/), [audio recap](https://bitcoinops.org/en/podcast/2025/05/06/)
