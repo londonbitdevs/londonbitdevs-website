@@ -55,7 +55,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
 
 ### InfoSec
 - [CVE-2024-52919 - Remote crash due to addr message spam (part 2)](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
@@ -67,6 +67,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Remove the legacy wallet and BDB dependency](https://github.com/bitcoin/bitcoin/pull/28710)
 - [miner: timelock the coinbase to the mined block's height](https://github.com/bitcoin/bitcoin/pull/32155)
 - [rpc: Undeprecate rpcuser/rpcpassword, store all credentials hashed in memory](https://github.com/bitcoin/bitcoin/pull/32423)
+- [policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -91,7 +92,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [tx-pigeon](https://github.com/stutxo/tx-pigeon)
+- [Simplicity merged in elements 23.3](https://github.com/ElementsProject/elements/releases/tag/elements-23.3.0)
+- 
 
 ## Events and Podcasts
 -
@@ -103,4 +106,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Fix improper parsing of transaction with some nVersion](https://github.com/MetacoSA/NBitcoin/pull/1269)
+- [Block to roll out bitcoin payments on Square](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square)
