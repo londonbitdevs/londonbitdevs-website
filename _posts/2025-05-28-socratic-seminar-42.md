@@ -82,7 +82,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP 54: Consensus Cleanup](https://github.com/bitcoin/bips/pull/1800)
+- [BIP 53: Disallow 64-byte transactions](https://github.com/bitcoin/bips/pull/1760)
+- [BIP 443: OP\_CHECKCONTRACTVERIFY](https://github.com/bitcoin/bips/pull/1793)
+- [BIP-345: withdraw](https://github.com/bitcoin/bips/pull/1848)
 
 ### [BOLT]
 -
