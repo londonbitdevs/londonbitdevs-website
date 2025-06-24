@@ -82,7 +82,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP 77: Async Payjoin](https://github.com/bitcoin/bips/pull/1483)
+- [390: Allow repeated participant pubkeys](https://github.com/bitcoin/bips/pull/1867)
 
 ### [BOLT]
 -
