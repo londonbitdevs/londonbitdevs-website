@@ -36,9 +36,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Censorship Resistant Transaction Relay - Taking out the garbage(man)](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k)
 - [The case for privatizing Bitcoin Core](https://groups.google.com/g/bitcoindev/c/43yjt8MXMvo)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#32051 Protect addnode peers during IBD](https://bitcoincore.reviews/32051)
@@ -51,15 +48,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #356](https://bitcoinops.org/en/newsletters/2025/06/13/), [audio recap](https://bitcoinops.org/en/podcast/2025/06/17/)
 - [Newsletter #356](https://bitcoinops.org/en/newsletters/2025/06/20/), [audio recap](https://bitcoinops.org/en/podcast/2025/06/23/)
 
-## Network Data
--
-
 ## CVEs and Research
 ### Research
 - [Notes on 'DoS due to inv-to-send sets growing too large' from May 2023](https://b10c.me/observations/15-inv-to-send-queue/)
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -69,43 +60,19 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [log: Additional compact block logging](https://github.com/bitcoin/bitcoin/pull/32582)
 - [Add checkBlock() to Mining interface](https://github.com/bitcoin/bitcoin/pull/31981)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 77: Async Payjoin](https://github.com/bitcoin/bips/pull/1483)
 - [390: Allow repeated participant pubkeys](https://github.com/bitcoin/bips/pull/1867)
-
-### [BOLT]
--
 
 ## New Releases
 - [Rust libsecp256k1 MuSig2 implementation complete](https://github.com/rust-bitcoin/rust-secp256k1/pull/798)
 - [Arkade](https://arkadeos.com/)
 - [bitcoind-async-client](https://github.com/alpenlabs/bitcoind-async-client)
-- 
-
-## Events and Podcasts
--
 
 ## Mining
 - [Stratum V2 STARK proofs](https://x.com/dimahledba/status/1935354385795592491)
-
-## Privacy
--
 
 ## Miscellaneous
 - [Safe seedless setups](https://x.com/hugomofn/status/1927733231853662634)
 - [Failla: Custody Issue Not Important To Storm's Defense](https://www.therage.co/failla-custody-issue-not-important-to-storms-defense/)
 - [BitVM mainnet experiment completed](https://x.com/dntse/status/1930272316124287393)
-- 
