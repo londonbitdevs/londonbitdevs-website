@@ -56,7 +56,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Notes on 'DoS due to inv-to-send sets growing too large' from May 2023](https://b10c.me/observations/15-inv-to-send-queue/)
 
 ### InfoSec
 -
@@ -90,16 +90,22 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Rust libsecp256k1 MuSig2 implementation complete](https://github.com/rust-bitcoin/rust-secp256k1/pull/798)
+- [Arkade](https://arkadeos.com/)
+- [bitcoind-async-client](https://github.com/alpenlabs/bitcoind-async-client)
+- 
 
 ## Events and Podcasts
 -
 
 ## Mining
--
+- [Stratum V2 STARK proofs](https://x.com/dimahledba/status/1935354385795592491)
 
 ## Privacy
 -
 
 ## Miscellaneous
--
+- [Safe seedless setups](https://x.com/hugomofn/status/1927733231853662634)
+- [Failla: Custody Issue Not Important To Storm's Defense](https://www.therage.co/failla-custody-issue-not-important-to-storms-defense/)
+- [BitVM mainnet experiment completed](https://x.com/dntse/status/1930272316124287393)
+- 
