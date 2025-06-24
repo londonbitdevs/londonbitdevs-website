@@ -19,6 +19,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Scaling Noncustodial Mining Payouts with CTV](https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv/1753)
+- [Where does the 33.33% threshold for selfish mining come from?](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
+- [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
+- [Garbled circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
+- [Research Update: A Geometric Approach for Optimal Channel Rebalancing](https://delvingbitcoin.org/t/research-update-a-geometric-approach-for-optimal-channel-rebalancing/1768)
+- [\[Rust\] descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt/1750)
+- [Non-confiscatory Transaction Weight Limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
+- [CTV vault output descriptor](https://delvingbitcoin.org/t/ctv-vault-output-descriptor/1766)
+- [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes/1742)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
