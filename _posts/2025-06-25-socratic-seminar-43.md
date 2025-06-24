@@ -34,6 +34,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [CTV + CSFS: a letter](https://groups.google.com/g/bitcoindev/c/KJF6A55DPJ8)
 - [DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures](https://groups.google.com/g/bitcoindev/c/eothFkxAvK0)
 - [Censorship Resistant Transaction Relay - Taking out the garbage(man)](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k)
+- [The case for privatizing Bitcoin Core](https://groups.google.com/g/bitcoindev/c/43yjt8MXMvo)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
