@@ -40,7 +40,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#32051 Protect addnode peers during IBD](https://bitcoincore.reviews/32051)
+  - [#30605 Cluster linearization: separate tests from tests-of-tests](https://bitcoincore.reviews/30605)
+  - [#31829 Improve TxOrphanage denial of service bounds](https://bitcoincore.reviews/31829)
 
 ### Optech
 - [Newsletter #356](https://bitcoinops.org/en/newsletters/2025/05/30/), [audio recap](https://bitcoinops.org/en/podcast/2025/06/03/)
