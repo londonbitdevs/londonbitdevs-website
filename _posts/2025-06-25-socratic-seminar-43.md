@@ -31,7 +31,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [CTV + CSFS: a letter](https://groups.google.com/g/bitcoindev/c/KJF6A55DPJ8)
+- [DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures](https://groups.google.com/g/bitcoindev/c/eothFkxAvK0)
+- [Censorship Resistant Transaction Relay - Taking out the garbage(man)](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
