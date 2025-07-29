@@ -22,7 +22,13 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
+- [Make pathological transactions with more than 2500 legacy signature operations non-standard](https://groups.google.com/g/bitcoindev/c/u2Bz1Ms8_lA)
+- [Human meaningful witness versioning](https://groups.google.com/g/bitcoindev/c/oScMvT8xZH4)
+- [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4)
+- [RGB consensus layer released for production deployments](https://groups.google.com/g/bitcoindev/c/LzMGclBdaUc)
+- [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc)
+- 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -43,7 +49,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [The Post-Quantum Security of Bitcoin's Taproot as a Commitment Scheme](https://eprint.iacr.org/2025/1307)
 
 ### InfoSec
 -
@@ -73,7 +79,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core v28.2](https://github.com/bitcoin/bitcoin/tree/v28.2)
 
 ## Events and Podcasts
 -
