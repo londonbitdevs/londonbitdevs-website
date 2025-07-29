@@ -34,14 +34,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Human meaningful witness versioning](https://groups.google.com/g/bitcoindev/c/oScMvT8xZH4)
 - [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4)
 - [RGB consensus layer released for production deployments](https://groups.google.com/g/bitcoindev/c/LzMGclBdaUc)
-- 
-
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
-### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
 
 ### Optech
 - [Newsletter #360](https://bitcoinops.org/en/newsletters/2025/06/27/), [audio recap](https://bitcoinops.org/en/podcast/2025/06/30/)
@@ -58,9 +50,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [The Post-Quantum Security of Bitcoin's Taproot as a Commitment Scheme](https://eprint.iacr.org/2025/1307)
 - [Running bitcoin. From Core to Code: A Comparison of Clients](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
 
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
@@ -68,37 +57,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [policy: make pathological transactions packed with legacy sigops non-standard](https://github.com/bitcoin/bitcoin/pull/32521)
 - [Reduce minrelaytxfee to 100 sats/kvB](https://github.com/bitcoin/bitcoin/pull/32959)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP3: Address additional review](https://github.com/bitcoin/bips/pull/1819)
 - [380: Disallow H as a hardened indicator](https://github.com/bitcoin/bips/pull/1888)
 
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core v28.2](https://github.com/bitcoin/bitcoin/tree/v28.2)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Simplicity is LOCKED_IN on The Liquid Network](https://simplicity-lang.org/)
