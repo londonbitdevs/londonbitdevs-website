@@ -57,7 +57,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
+- [policy: make pathological transactions packed with legacy sigops non-standard](https://github.com/bitcoin/bitcoin/pull/32521)
+- 
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
