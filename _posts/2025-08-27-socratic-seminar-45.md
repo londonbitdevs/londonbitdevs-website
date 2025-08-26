@@ -27,7 +27,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [Glock: Garbled Locks for Bitcoin](https://groups.google.com/g/bitcoindev/c/g_-Tfmjz0pw)
+- [\[BIP Proposal\] OP\_TWEAKADD](https://groups.google.com/g/bitcoindev/c/-_geIB25zrg)
+- [\[BIP Proposal\] Elliptic Curve Operations for Bitcoin Script](https://groups.google.com/g/bitcoindev/c/cnzeqBmHEu0)
+
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
