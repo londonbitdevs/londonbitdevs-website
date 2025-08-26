@@ -58,7 +58,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [wallet, rpc: add v3 transaction creation and wallet support](https://github.com/bitcoin/bitcoin/pull/32896)
+- [descriptors: MuSig2](https://github.com/bitcoin/bitcoin/pull/31244)
+- [Add bitcoin-{node,gui} to release binaries for IPC](https://github.com/bitcoin/bitcoin/pull/31802)
+- [policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
+- 
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
