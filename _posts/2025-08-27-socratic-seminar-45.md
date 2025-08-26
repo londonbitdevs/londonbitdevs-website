@@ -19,6 +19,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Sharing block templates](https://delvingbitcoin.org/t/sharing-block-templates/1906)
+- [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
+- [Confidential Script: Emulate soft forks using stateless TEEs](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
+- [Writing Simplicity Programs with SimplicityHL](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
+- 
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
