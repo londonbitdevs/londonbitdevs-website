@@ -86,7 +86,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Bitcoin Core v30.0 Released](https://groups.google.com/g/bitcoindev/c/44rT5evWVxI)
+- [Bitcoin Core v29.2 Released](https://groups.google.com/g/bitcoindev/c/XLYTbiq25c0)
+- [Bitcoin Core 28.3 Released](https://groups.google.com/g/bitcoindev/c/U6lYb0yf93w)
 
 ## Events and Podcasts
 -
@@ -98,4 +100,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Spark and Ark: A Look At Our Newest Bitcoin Layer Twos](https://bitcoinmagazine.com/technical/spark-and-ark-a-look-at-our-newest-bitcoin-layer-twos)
+- [LNHANCE Expeditionary Project](https://gist.github.com/Ademan/300f19f925e368a3b532ddbf3c88b425)
