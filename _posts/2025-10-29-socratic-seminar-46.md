@@ -29,7 +29,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - [#33300 Compact block harness](https://bitcoincore.reviews/33300)
 
 ### Optech
 - [Newsletter #374](https://bitcoinops.org/en/newsletters/2025/10/03/), [audio recap](https://bitcoinops.org/en/podcast/2025/10/07/)
