@@ -31,7 +31,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [A Minimal, Executable Specification for Bitcoin Consensus](https://groups.google.com/g/bitcoindev/c/qMN_hy9g774)
+- [\[0/4\] A Bitcoin Scripting Proposal BIP Quartet](https://groups.google.com/g/bitcoindev/c/GisTcPb8Jco)
+- [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
+- [\[BIP Proposal\] Limit ScriptPubkey Size >= 520 Bytes Consensus.](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
+- [\[BIP Proposal\] Reduced Data Temporary Softfork](https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8)
+- [BIP54 implementation and test vectors](https://groups.google.com/g/bitcoindev/c/1XEtmIS_XRc)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
