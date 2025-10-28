@@ -38,9 +38,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [\[BIP Proposal\] Reduced Data Temporary Softfork](https://groups.google.com/g/bitcoindev/c/nOZim6FbuF8)
 - [BIP54 implementation and test vectors](https://groups.google.com/g/bitcoindev/c/1XEtmIS_XRc)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
   - [#33300 Compact block harness](https://bitcoincore.reviews/33300)
@@ -51,15 +48,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #376](https://bitcoinops.org/en/newsletters/2025/10/17/)
 - [Newsletter #377](https://bitcoinops.org/en/newsletters/2025/10/24/)
 
-## Network Data
--
-
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -67,37 +55,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [wallet: Be able to receive and spend inputs involving MuSig2 aggregate keys](https://github.com/bitcoin/bitcoin/pull/29675)
 
 
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BOLT]
--
-
 ## New Releases
 - [Bitcoin Core v30.0 Released](https://groups.google.com/g/bitcoindev/c/44rT5evWVxI)
 - [Bitcoin Core v29.2 Released](https://groups.google.com/g/bitcoindev/c/XLYTbiq25c0)
 - [Bitcoin Core 28.3 Released](https://groups.google.com/g/bitcoindev/c/U6lYb0yf93w)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
 
 ## Miscellaneous
 - [Spark and Ark: A Look At Our Newest Bitcoin Layer Twos](https://bitcoinmagazine.com/technical/spark-and-ark-a-look-at-our-newest-bitcoin-layer-twos)
