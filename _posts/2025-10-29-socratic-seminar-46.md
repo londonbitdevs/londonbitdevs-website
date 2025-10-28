@@ -19,6 +19,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Delving Bitcoin, Mailing Lists, Meetings and Bitcoin Optech
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Optimal Threshold Signatures in Bitcoin](https://delvingbitcoin.org/t/optimal-threshold-signatures-in-bitcoin/2023)
+- [Outgoing Reputation: Simulation Results and Updates](https://delvingbitcoin.org/t/outgoing-reputation-simulation-results-and-updates/2069)
+- [Determining BlockTemplate Fee Increase Using Fee Rate Diagram](https://delvingbitcoin.org/t/determining-blocktemplate-fee-increase-using-fee-rate-diagram/2052)
+- [Provable Cryptography for Bitcoin: An Introduction (Workbook)](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
+- Delving Simplicity:
+  - [Part Ⅰ: Three Fundamental Ways of Combining Computations](https://delvingbitcoin.org/t/delving-simplicity-part-three-fundamental-ways-of-combining-computations/1902)
+  - [Part Ⅱ: Combinator Completeness of Simplicity](https://delvingbitcoin.org/t/delving-simplicity-part-combinator-completeness-of-simplicity/1935)
+  - [Part Ⅲ: Building Data Types](https://delvingbitcoin.org/t/delving-simplicity-part-building-data-types/1956)
+- [Flattening Nested 2-of-2 Of a 1-of-1 And a k-of-n](https://delvingbitcoin.org/t/flattening-nested-2-of-2-of-a-1-of-1-and-a-k-of-n/2018)
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
