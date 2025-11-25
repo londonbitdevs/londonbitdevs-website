@@ -37,8 +37,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Motion to Activate BIP 3](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc)
 - [SLH-DSA (SPHINCS) Performance Optimization Techniques](https://groups.google.com/g/bitcoindev/c/LAll07BHwjw)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
 
 ### Meetings
 - [Bitcoin Core Dev Oct 2025](https://btctranscripts.com/bitcoin-core-dev-tech/2025-10)
@@ -49,16 +47,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #380](https://bitcoinops.org/en/newsletters/2025/11/14/), [audio recap](https://bitcoinops.org/en/podcast/2025/11/17/)
 - [Newsletter #381](https://bitcoinops.org/en/newsletters/2025/11/21/), [audio recap](https://bitcoinops.org/en/podcast/2025/11/24/)
 
-## Network Data
--
-
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
-
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
@@ -67,38 +55,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [rpc: Handle -named argument parsing where '=' character is used](https://github.com/bitcoin/bitcoin/pull/32821)
 - [\[IBD\] coins: increase default UTXO flush batch size to 32 MiB](https://github.com/bitcoin/bitcoin/pull/31645)
 
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
-
-### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BOLT]
--
-
 ## New Releases
 - [Phoenix Wallet introduces Taproot channels](https://atlas21.com/phoenix-wallet-introduces-taproot-channels/)
 - [Press Start: Arkade Goes Live](https://blog.arklabs.xyz/press-start-arkade-goes-live/)
 - [Nunchuk 2.0: Autonomous Inheritance](https://nunchuk.io/blog/autonomous-inheritance)
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Privacy
--
-
-## Miscellaneous
--
