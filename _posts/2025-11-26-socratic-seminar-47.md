@@ -41,8 +41,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+- [Bitcoin Core Dev Oct 2025](https://btctranscripts.com/bitcoin-core-dev-tech/2025-10)
 
 ### Optech
 - [Newsletter #378](https://bitcoinops.org/en/newsletters/2025/10/31/), [audio recap](https://bitcoinops.org/en/podcast/2025/11/03/)
