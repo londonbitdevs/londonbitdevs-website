@@ -31,7 +31,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [OP\_CIV - Post-Quantum Signature Aggregation](https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I)
+- [LNHANCE a soft-fork package](https://groups.google.com/g/bitcoindev/c/AlMqLbmzxNA)
+- [New bitcoin backbone code release + Tx relay v2 update](https://groups.google.com/g/bitcoindev/c/zD0hNBVrsk0)
+- [Motion to Activate BIP 3](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc)
+- [SLH-DSA (SPHINCS) Performance Optimization Techniques](https://groups.google.com/g/bitcoindev/c/LAll07BHwjw)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
