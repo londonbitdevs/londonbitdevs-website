@@ -63,7 +63,10 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 <!--- Link to query merged PRs since YYYY-MM-DD sorted by descending activity: https://github.com/bitcoin/bitcoin/pulls?page=1&q=is%3Apr+is%3Aclosed+merged%3A%3EYYYY-MM-DD+sort%3Acomments-desc -->
--
+- [kernel: Introduce C header API](https://github.com/bitcoin/bitcoin/pull/30595)
+- [Cluster mempool](https://github.com/bitcoin/bitcoin/pull/33629)
+- [rpc: Handle -named argument parsing where '=' character is used](https://github.com/bitcoin/bitcoin/pull/32821)
+- [\[IBD\] coins: increase default UTXO flush batch size to 32 MiB](https://github.com/bitcoin/bitcoin/pull/31645)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
