@@ -87,7 +87,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [Phoenix Wallet introduces Taproot channels](https://atlas21.com/phoenix-wallet-introduces-taproot-channels/)
+- [Press Start: Arkade Goes Live](https://blog.arklabs.xyz/press-start-arkade-goes-live/)
+- [Nunchuk 2.0: Autonomous Inheritance](https://nunchuk.io/blog/autonomous-inheritance)
 
 ## Events and Podcasts
 -
