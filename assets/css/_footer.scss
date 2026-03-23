@@ -1,3 +1,5 @@
+@use "variables";
+
 .Footer {
   margin-top: 2rem;
 
@@ -17,7 +19,7 @@
       opacity: 0.4;
 
       &:hover {
-        color: $primary-color;
+        color: variables.$primary-color;
         opacity: 1;
       }
     }
