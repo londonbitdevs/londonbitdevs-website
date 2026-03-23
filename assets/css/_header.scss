@@ -1,3 +1,5 @@
+@use "variables";
+
 .Header {
   margin-bottom: 0.75rem;
 
@@ -17,7 +19,7 @@
   &-logo {
     font-size: 2.2rem;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: variables.$small-screen) {
       font-size: 1.8rem;
     }
   }
@@ -26,7 +28,7 @@
     display: flex;
     font-size: 1.3rem;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: variables.$small-screen) {
       font-size: 1.1rem;
     }
 
@@ -36,7 +38,7 @@
       margin-left: 1.5rem;
 
       &:hover {
-        color: $primary-color;
+        color: variables.$primary-color;
         opacity: 1;
       }
     }
