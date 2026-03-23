@@ -1,3 +1,4 @@
+# Keep in sync with .ruby-version
 FROM ruby:3.4-slim
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
