@@ -34,21 +34,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev)
 - [Hourglass V2 Update](https://groups.google.com/g/bitcoindev/c/0E1UyyQIUA0)
 
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
-
-### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
-
 ### Optech
 - [Newsletter #394](https://bitcoinops.org/en/newsletters/2026/02/27/), [audio recap](https://bitcoinops.org/en/podcast/2026/03/03/)
 - [Newsletter #395](https://bitcoinops.org/en/newsletters/2026/03/06/), [audio recap](https://bitcoinops.org/en/podcast/2026/03/10/)
 - [Newsletter #396](https://bitcoinops.org/en/newsletters/2026/03/13/), [audio recap](https://bitcoinops.org/en/podcast/2026/03/17/)
 - [Newsletter #397](https://bitcoinops.org/en/newsletters/2026/03/20/), [audio recap](https://bitcoinops.org/en/podcast/2026/03/24/)
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -64,16 +54,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [build: Embedded ASMap \[3/3\]: Build binary dump header file](https://github.com/bitcoin/bitcoin/pull/28792)
 - [rpc,net: Add private broadcast RPCs](https://github.com/bitcoin/bitcoin/pull/34329)
 - [Bump dbcache to 1 GiB](https://github.com/bitcoin/bitcoin/pull/34692)
-
-
-### [LND](https://github.com/lightningnetwork/lnd)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Eclair](https://github.com/ACINQ/eclair)
--
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 -[BIP54 "Consensus Cleanup" implementation](https://github.com/bitcoin-inquisition/bitcoin/pull/99)
@@ -95,18 +75,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [fuzzor](https://github.com/dergoegge/fuzzor) ([dashboard](https://dergoegge.github.io/fuzzor-dashboard/))
 - [bitcoin-tui](https://github.com/janb84/bitcoin-tui)
 - [Bitcoin Core 31.0rc1](https://bitcoincore.org/bin/bitcoin-core-31.0/) ([testing guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide))
-- 
 
-
-## Events and Podcasts
--
 
 ## Mining
 - [FIBRE, Resurrected](https://lclhost.org/blog/fibre-resurrected/)
 - [Two block reorg at height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880)
-
-## Privacy
--
-
-## Miscellaneous
--
