@@ -51,12 +51,12 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
 - [Add a "tx output spender" index](https://github.com/bitcoin/bitcoin/pull/24539)
-- [build: Embedded ASMap \[3/3\]: Build binary dump header file](https://github.com/bitcoin/bitcoin/pull/28792)
+- [build: Embedded ASMap (3/3): Build binary dump header file](https://github.com/bitcoin/bitcoin/pull/28792)
 - [rpc,net: Add private broadcast RPCs](https://github.com/bitcoin/bitcoin/pull/34329)
 - [Bump dbcache to 1 GiB](https://github.com/bitcoin/bitcoin/pull/34692)
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--[BIP54 "Consensus Cleanup" implementation](https://github.com/bitcoin-inquisition/bitcoin/pull/99)
+- [BIP54 "Consensus Cleanup" implementation](https://github.com/bitcoin-inquisition/bitcoin/pull/99)
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 360 - Pay to Merkle Root (P2MR)](https://github.com/bitcoin/bips/pull/1670)
